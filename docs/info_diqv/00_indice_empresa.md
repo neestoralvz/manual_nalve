@@ -2,7 +2,7 @@
 título: Índice General de Documentación DiQV
 fecha_creación: 2025-01-10
 última_actualización: 2025-01-10
-versión: 2.1.0
+versión: 2.2.0
 ---
 
 # Índice General de Documentación DiQV
@@ -58,20 +58,12 @@ versión: 2.1.0
 - [Estándares](05_recursos/referencias/02_estandares)
 - [Bibliografía](05_recursos/referencias/03_bibliografia)
 
-## 4. Validación y Control
-
-### 4.1 Revisión Técnica
-- [Revisión Técnica](06_validacion/revision_tecnica/01_revision_tecnica.md)
-- [Checklist de Validación](06_validacion/revision_tecnica/02_checklist_validacion.md)
-- [Resultados](06_validacion/revision_tecnica/03_resultados_validacion.md)
-
-### 4.2 Mejora Continua
-- [Plan de Mejoras](06_validacion/revision_tecnica/04_plan_mejoras.md)
-- [Resumen Ejecutivo](06_validacion/revision_tecnica/05_resumen_ejecutivo.md)
-- [Guía de Troubleshooting](06_validacion/revision_tecnica/08_guia_troubleshooting.md)
-
 ---
 ## Historial de Cambios
+2025-01-10 - v2.2.0
+- Eliminación de la sección de Validación y Control
+- Actualización de la estructura documental
+
 2025-01-10 - v2.0.0
 - Reorganización completa de la estructura documental
 - Integración de documentación técnica
