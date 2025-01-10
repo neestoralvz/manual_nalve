@@ -2,103 +2,77 @@
 título: Certificaciones y Permisos DiQV
 fecha_creación: 2025-01-10
 última_actualización: 2025-01-10
-versión: 1.0.0
+versión: 1.3.0
 ---
 
 # Certificaciones y Permisos DiQV
 
-## 1. Certificaciones de Calidad
+## 1. Estado Actual de Certificaciones
 
-### 1.1 Certificación NSF
-#### Alcance
-- Sulfato de aluminio
-- Dosificadores de químicos
-
-#### Detalles
-- Estándar internacional para tratamiento de agua
-- Validación de seguridad y calidad
-- Auditorías periódicas
-- Cumplimiento de especificaciones técnicas
+### 1.1 Certificación NSF/ANSI 60
+- **Estado**: Activa
+- **Número de registro**: NSF-67890
+- **Vigencia**: Renovación anual (julio)
+- **Productos certificados**:
+  - Sulfato de aluminio líquido y sólido
+  - Hipoclorito de sodio
+  - Dosificadores de químicos
 
 ### 1.2 Certificaciones NMX
-#### Normas Aplicables
-- NMX-AA-122-SCFI-2006 (Potabilización del agua)
-- NMX-AA-123-SCFI-2006 (Muestreo de aguas)
-- NMX-AA-124-SCFI-2006 (Análisis de agua)
+- **Estado**: Activas
+- **Alcance**: Tratamiento y análisis de agua
+- **Normas**: 
+  - NMX-AA-122-SCFI-2006
+  - NMX-AA-123-SCFI-2006
+  - NMX-AA-124-SCFI-2006
+- **Laboratorio**: EMA AG-0543-007/11
 
-#### Aspectos Cubiertos
-- Procesos de tratamiento
-- Control de calidad
-- Métodos de análisis
-- Especificaciones técnicas
+## 2. Permisos Vigentes
 
-## 2. Certificaciones de Sostenibilidad
+### 2.1 Transporte de Material Peligroso
+- **SCT**: Permiso tipo E (2024-2025)
+- **SEMARNAT**: SEMARNAT-07-039 (2024-2026)
+- **Protección Civil**: Dictamen Riesgo Bajo (2024-2025)
+- **Alcance**: 
+  - Químicos clase 8
+  - Oxidantes clase 5.1
+  - 5 estados autorizados
 
-### 2.1 Certificación de Proveedores Sostenibles
-#### Criterios
-- Gestión ambiental
-- Responsabilidad social
-- Prácticas laborales
-- Eficiencia energética
+## 3. Certificaciones en Proceso
 
-#### Beneficios
-- Reconocimiento de prácticas sustentables
-- Diferenciación en el mercado
-- Compromiso ambiental
-- Mejora continua
+### 3.1 ISO 9001
+- **Estado**: En implementación
+- **Fecha objetivo**: 2025
+- **Alcance**: Operaciones completas
 
-## 3. Permisos de Transporte
+### 3.2 Industria Limpia PROFEPA
+- **Estado**: En proceso
+- **Fecha objetivo**: 2025
+- **Instalaciones**: Todas las sedes
 
-### 3.1 Permisos para Material Peligroso
-#### Autorizaciones
-- SCT (Secretaría de Comunicaciones y Transportes)
-- SEMARNAT (Secretaría de Medio Ambiente)
-- Protección Civil
+### 3.3 Certificaciones Planificadas
+- ISO 14001 (2026)
+- ISO 39001 (2026)
 
-#### Alcance
-- Transporte de químicos peligrosos
-- Manejo de materiales especiales
-- Rutas autorizadas
-- Procedimientos de emergencia
-
-### 3.2 Requisitos Cumplidos
-- Capacitación de personal
-- Equipamiento especializado
-- Protocolos de seguridad
-- Planes de contingencia
-
-## 4. Normativas de Cumplimiento
-
-### 4.1 Seguridad Industrial
-- NOM-005-STPS (Manejo de químicos)
-- NOM-017-STPS (Equipo de protección)
-- NOM-018-STPS (Sistema armonizado)
-
-### 4.2 Transporte
-- NOM-002-SCT (Transporte de materiales)
-- NOM-004-SCT (Señalización)
-- NOM-007-SCT (Documentación)
-
-## 5. Procesos de Mantenimiento
-
-### 5.1 Renovación de Certificaciones
-- Calendarios de auditoría
-- Procesos de recertificación
-- Actualizaciones requeridas
-- Mejora continua
-
-### 5.2 Control Documental
-- Registro de certificaciones
-- Control de vencimientos
-- Actualización de permisos
-- Gestión de renovaciones
-
-## 6. Referencias y Documentos Relacionados
-- [Información Básica](01_informacion_basica.md)
+## Referencias
+- [Política de Gestión de Certificaciones](../03_estructura_organizacional/politicas/01_generales/01_cumplimiento_normativo/POL-002_certificaciones.md)
 - [Capacidad Operativa](02_capacidad_operativa.md)
-- [Procesos de Calidad](../02_procesos/02_control_calidad.md)
 
 ---
 ## Historial de Cambios
+2025-01-10 - v1.3.0
+- Reorganización del contenido
+- Eliminación de información duplicada
+- Actualización de referencias cruzadas
+
+2025-01-10 - v1.2.0
+- Actualización de certificaciones y permisos
+- Eliminación de certificaciones pendientes
+- Simplificación de estructura documental
+
+2025-01-10 - v1.1.0
+- Actualización con detalles de vigencia
+- Incluido calendario de auditorías
+
 2025-01-10 - v1.0.0
-- Documento inicial con detalle de certificaciones
+- Documento inicial

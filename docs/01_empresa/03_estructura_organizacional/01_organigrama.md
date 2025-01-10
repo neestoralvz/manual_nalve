@@ -2,97 +2,220 @@
 título: Organigrama Empresarial DiQV
 fecha_creación: 2025-01-10
 última_actualización: 2025-01-10
-versión: 1.0.0
+versión: 1.5.0
 ---
 
 # Organigrama Empresarial DiQV
 
-## 1. Estructura Jerárquica
+## 1. Estructura Actual
 
 ### 1.1 Alta Dirección
-- Dirección General
-  - Responsabilidades principales
-  - Áreas de supervisión directa
-  - Reportes directos
+- **Dirección General**
+  * Supervisión estratégica general
+  * Toma de decisiones ejecutivas
+  * Desarrollo de estrategia empresarial
 
-### 1.2 Gerencias
-- Gerencia de Operaciones
-- Gerencia Comercial
-- Gerencia Técnica
-- Gerencia Administrativa
-- Gerencia de Calidad
+### 1.2 Gerencias Operativas
+- **Gerencia de Transporte**
+  * Control de unidades y flota
+  * Mantenimiento preventivo
+  * Supervisión de operadores
+  * Planeación de rutas
+  * Protocolos de seguridad
+  * Cumplimiento normativo
 
-## 2. Departamentos
+- **Gerencia de Logística**
+  * Gestión de compras
+  * Control de inventarios
+  * Facturación
+  * Notas de entrega
+  * Coordinación de entregas
+  * Cotizaciones
+  * Gestión de proveedores
 
-### 2.1 Operaciones
-- Almacenamiento
-- Distribución
-- Logística
-- Mantenimiento
-- Control de Inventarios
+### 1.3 Soporte Corporativo (Nalve)
+- **Dirección Jurídica**
+  * Contratos y convenios
+  * Cumplimiento regulatorio
+  * Permisos y licencias
+  * Gestión de riesgos legales
 
-### 2.2 Comercial
-- Ventas
-- Marketing
-- Servicio al Cliente
-- Desarrollo de Negocios
-- Cotizaciones
+- **Dirección Administrativa**
+  * Finanzas
+  * Contabilidad
+  * Control presupuestal
+  * Tesorería
 
-### 2.3 Técnico
-- Investigación y Desarrollo
-- Control de Calidad
-- Soporte Técnico
-- Documentación Técnica
-- Capacitación
+- **Dirección de Recursos Humanos**
+  * Gestión de personal
+  * Capacitación
+  * Desarrollo organizacional
+  * Clima laboral
 
-### 2.4 Administrativo
-- Recursos Humanos
-- Finanzas
-- Contabilidad
-- Compras
-- Sistemas
+- **Dirección de Tecnología y Analítica**
+  * Análisis de datos
+  * Desarrollo tecnológico
+  * Innovación de procesos
+  * Sistemas de información
 
-### 2.5 Calidad
-- Aseguramiento de Calidad
-- Certificaciones
-- Mejora Continua
-- Auditorías
-- Normatividad
+## 2. Estructura Propuesta
 
-## 3. Líneas de Reporte
+### 2.1 Alta Dirección
+- **Dirección General**
+  * Planeación estratégica
+  * Desarrollo de negocio
+  * Relaciones institucionales
 
-### 3.1 Reportes Directos
-- Estructura de reportes
-- Cadena de mando
-- Comunicación formal
-- Delegación de autoridad
+### 2.2 Gerencias Operativas
+- **Gerencia de Transporte**
+  * Operaciones
+    - Control de flota
+    - Planeación de rutas
+    - Supervisión de operadores
+  * Mantenimiento
+    - Preventivo y correctivo
+    - Control de unidades
+  * Seguridad y Cumplimiento
+    - Protocolos de seguridad
+    - Manejo de materiales peligrosos
+    - Normatividad de transporte
+    - Capacitación en seguridad
 
-### 3.2 Comunicación Interdepartamental
-- Flujos de comunicación
-- Colaboración entre áreas
-- Comités internos
-- Grupos de trabajo
+- **Gerencia de Logística**
+  * Administración
+    - Control de inventarios
+    - Facturación
+    - Notas de entrega
+    - Documentación
+  * Compras
+    - Gestión de proveedores
+    - Cotizaciones
+    - Abastecimiento
+  * Operaciones
+    - Coordinación de entregas
+    - Seguimiento de pedidos
+    - Control de documentación
 
-## 4. Puestos Clave
+### 2.3 Gerencias de Desarrollo
+- **Gerencia Comercial**
+  * Ventas
+    - Desarrollo de mercado
+    - Gestión de clientes
+    - Nuevos negocios
+  * Marketing
+    - Estrategia digital
+    - Comunicación
+    - Marca
+  * Servicio al Cliente
+    - Atención y soporte
+    - Seguimiento
+    - Satisfacción
 
-### 4.1 Directivos
-- Director General
-- Gerentes de Área
-- Jefes de Departamento
-- Coordinadores
+- **Gerencia Técnica**
+  * Soporte Técnico
+    - Asesoría especializada
+    - Resolución de problemas
+    - Mejora de procesos
+  * Desarrollo
+    - Soluciones técnicas
+    - Documentación
+    - Capacitación
+  * Calidad
+    - Control de calidad
+    - Certificaciones
+    - Mejora continua
 
-### 4.2 Especialistas
-- Químicos
-- Ingenieros
-- Técnicos Especializados
-- Asesores Técnicos
+### 2.4 Soporte Corporativo (Nalve)
+- **Dirección Jurídica**
+  * Contratos y convenios
+  * Cumplimiento regulatorio
+  * Permisos y licencias
+
+- **Dirección Administrativa**
+  * Finanzas y contabilidad
+  * Control presupuestal
+  * Tesorería
+
+- **Dirección de Recursos Humanos**
+  * Reclutamiento y selección
+  * Capacitación y desarrollo
+  * Relaciones laborales
+
+- **Dirección de Tecnología y Analítica**
+  * Desarrollo tecnológico
+    - Implementación de CRM
+    - Portal de clientes
+    - Automatización
+  * Analítica
+    - Inteligencia de negocio
+    - Reportes estratégicos
+    - Optimización
+
+## 3. Plan de Implementación
+
+### 3.1 Fase 1: Fortalecimiento Operativo
+1. Consolidar seguridad en transporte
+   - Capacitación especializada
+   - Implementación de protocolos
+   - Documentación de procesos
+
+2. Optimizar logística
+   - Mejora de procesos
+   - Digitalización documental
+   - Control de inventarios
+
+### 3.2 Fase 2: Desarrollo Comercial
+1. Implementar Gerencia Comercial
+   - Equipo de ventas
+   - Marketing digital
+   - Servicio al cliente
+
+2. Establecer Gerencia Técnica
+   - Soporte especializado
+   - Documentación técnica
+   - Sistema de calidad
+
+## 4. Líneas de Reporte
+
+### 4.1 Reportes Directos
+- Gerencias Operativas → Dirección General
+- Gerencias de Desarrollo → Dirección General
+- Direcciones Corporativas → Dirección General
+
+### 4.2 Comunicación
+- Comité de Operaciones (semanal)
+- Comité Comercial (quincenal)
+- Comité Técnico (quincenal)
+- Reuniones de coordinación (diarias)
 
 ## Referencias y Documentos Relacionados
 - [Roles y Responsabilidades](02_roles_responsabilidades.md)
 - [Políticas Internas](03_politicas_internas.md)
-- [Capacidad Operativa](../01_datos_generales/02_capacidad_operativa.md)
+- [Plan Estratégico](../02_objetivos/02_plan_estrategico.md)
 
 ---
 ## Historial de Cambios
+2025-01-10 - v1.5.0
+- Separación de gerencias comercial y técnica
+- Refinamiento de responsabilidades
+- Plan de implementación por fases
+
+2025-01-10 - v1.4.0
+- Integración de seguridad industrial con transporte
+- Combinación de áreas comercial y técnica
+- Actualización de responsabilidades de logística
+
+2025-01-10 - v1.3.0
+- Separación de Tecnología y Analítica
+- Actualización de funciones y responsabilidades
+
+2025-01-10 - v1.2.0
+- Separación de funciones jurídicas y administrativas
+- Actualización de estructura corporativa
+
+2025-01-10 - v1.1.0
+- Documentación de estructura actual
+- Propuesta de estructura mejorada
+
 2025-01-10 - v1.0.0
 - Creación inicial del organigrama empresarial

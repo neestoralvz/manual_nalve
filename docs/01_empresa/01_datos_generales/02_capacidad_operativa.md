@@ -2,7 +2,7 @@
 título: Capacidad Operativa DiQV
 fecha_creación: 2025-01-10
 última_actualización: 2025-01-10
-versión: 1.8.0
+versión: 1.9.0
 ---
 
 # Capacidad Operativa DiQV
@@ -84,40 +84,65 @@ versión: 1.8.0
 
 #### Gas Cloro
 - **Volumen mensual**: 19 toneladas
+- **Capacidad por viaje**: 10 toneladas
 - **Presentaciones**:
   * Contenedores tipo tonelada: 907 kg
   * Cilindros: 65 kg
-- **Capacidad por viaje**: 10 toneladas
-- **Base operativa**: Tampico
 
-## 4. Cobertura Geográfica
+## 4. Infraestructura y Cobertura
 
-### 4.1 Regiones Atendidas
-#### Sureste
+### 4.1 Terminales de Almacenamiento y Distribución
+
+#### Terminal Veracruz Centro
+- **Ubicación**: Paso de Ovejas
+- **Especialidad**: Sulfato de Aluminio
+- **Capacidades**:
+  * Almacenamiento líquido: 108 toneladas
+  * Almacenamiento sólido: 272 toneladas
+  * Despacho mensual: 704 toneladas
+
+#### Terminal Veracruz Norte
+- **Ubicación**: Xalapa
+- **Especialidad**: Hipoclorito de Sodio
+- **Capacidades**:
+  * Almacenamiento: 72 toneladas
+  * Despacho mensual: 144 toneladas
+
+#### Terminal Veracruz Sur
+- **Ubicación**: Cosamaloapan
+- **Especialidad**: Hipoclorito de Sodio
+- **Capacidades**:
+  * Almacenamiento: 36 toneladas
+  * Despacho mensual: 288 toneladas
+
+#### Terminal Noreste
+- **Ubicación**: Tampico
+- **Especialidad**: Gas Cloro
+- **Capacidades**:
+  * Almacenamiento: 10 toneladas
+  * Despacho mensual: 19 toneladas
+  * Tipos de contenedores:
+    - Tanques de 907 kg
+    - Cilindros de 65 kg
+
+### 4.2 Cobertura Regional
+
+#### Región Sureste
 - Veracruz (cobertura total)
 - Tabasco
 - Chiapas
 - Frontera Guatemala
 - Yucatán
 
-#### Centro
+#### Región Centro
 - Puebla
 - Oaxaca
 
-#### Occidente
+#### Región Occidente
 - Michoacán
 
-#### Noreste
+#### Región Noreste
 - Tamaulipas
-
-### 4.2 Centros de Operación
-#### Veracruz
-- **Cosamaloapan**: Base hipoclorito
-- **Xalapa**: Base hipoclorito
-- **Paso de Ovejas**: Base sulfato
-
-#### Tamaulipas
-- **Tampico**: Base gas cloro
 
 ## 5. Tiempos de Servicio
 
@@ -150,10 +175,10 @@ versión: 1.8.0
 
 ---
 ## Historial de Cambios
+2025-01-10 - v1.9.0
+- Actualización de terminología de centros operativos
+- Reorganización de información de terminales
 2025-01-10 - v1.8.0
 - Actualización de especificaciones de gas cloro
-- Corrección de terminología técnica
-2025-01-10 - v1.7.0
-- Actualización de volúmenes y cobertura geográfica
 2025-01-10 - v1.0.0
 - Documento inicial
