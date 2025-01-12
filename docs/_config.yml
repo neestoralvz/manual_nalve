@@ -1,40 +1,22 @@
-# Configuración del sitio
+# Configuración básica del sitio
 title: "Manual de Usuario - NALVE"
-description: "Documentación oficial de productos químicos y procesos técnicos de NALVE"
+description: "Documentación oficial de NALVE"
 baseurl: "/manual_nalve"
 url: "https://neestoralvz.github.io"
 
-# Configuración del tema
+# Tema
 remote_theme: jekyll/minima
+theme: minima
 minima:
   skin: dark
-  date_format: "%Y-%m-%d"
 
-# Configuración de navegación
-header_pages:
-  - index.md
-  - 00_indice_general.md
-  - manual_estructura_documentacion.md
-  - global/00_indice_global.md
-  - empresas/empresa_1/indice_empresa.md
-
-# Estructura de colecciones
-collections:
-  productos:
-    output: true
-    permalink: /:collection/:name
-  politicas:
-    output: true
-    permalink: /:collection/:name
-
-# Configuración adicional
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-
-# Plugins
+# Plugins esenciales
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+
+# Configuración de Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
