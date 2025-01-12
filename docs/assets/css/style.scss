@@ -1,0 +1,47 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
+  "minima/initialize";
+
+// Personalizaciones para documentación técnica
+.site-header {
+  border-top: 5px solid #1E4B9C; // Tu azul corporativo
+}
+
+// Mejoras para la legibilidad de la documentación
+.post-content {
+  h2 {
+    border-bottom: 1px solid $border-color-01;
+    padding-bottom: 0.5em;
+    margin-top: 2em;
+  }
+  
+  h3 {
+    color: lighten($text-color, 10%);
+  }
+
+  // Estilo para tablas técnicas
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1em;
+    
+    th, td {
+      border: 1px solid $border-color-01;
+      padding: 8px;
+    }
+    
+    th {
+      background-color: darken($background-color, 3%);
+    }
+  }
+}
+
+// Estilo para códigos y datos técnicos
+code {
+  background-color: darken($background-color, 5%);
+  border-radius: 3px;
+  padding: 2px 5px;
+} 
