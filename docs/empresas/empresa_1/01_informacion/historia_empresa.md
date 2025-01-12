@@ -9,62 +9,66 @@ versión: 3.2.0
 
 # **Historia de la Empresa**
 
-## 1. Antecedentes y Motivación (2013 – 2014)
-El fundador de **Distribuidora de Químicos de Veracruz (DiQV)** adquirió sus primeros conocimientos en **2013**, al participar en la producción de productos de limpieza. Esta experiencia le permitió:
-- Entender las **formulaciones** y la importancia de las materias primas (hipoclorito de sodio, sulfato de aluminio, etc.).  
-- Identificar oportunidades de negocio en la **distribución confiable** de químicos hacia instituciones gubernamentales y sectores industriales.  
-- Perfeccionar la **seguridad** y la **eficiencia** como pilares de un futuro proyecto empresarial.
+## 1. Antecedentes y Motivación (2013–2014)
+El surgimiento de **Distribuidora de Químicos de Veracruz (DiQV)** se remonta a **2013**, cuando su fundador participó en la producción de productos de limpieza. Esa experiencia temprana permitió:
+- **Identificar** la relevancia de disponer de **materias primas** críticas (p. ej. hipoclorito de sodio, sulfato de aluminio) en forma **oportuna y confiable**.  
+- **Reconocer** las exigencias de **seguridad** y **eficiencia** en el manejo de químicos, especialmente para clientes gubernamentales.  
+- **Visualizar** una oportunidad de negocio centrada en la **distribución confiable**, sustentada en buenas prácticas logísticas.
 
 ## 2. Fundación de DiQV (2015)
-El **19 de febrero de 2015**, se constituyó formalmente **Distribuidora de Químicos de Veracruz, S.A. de C.V.**, con el propósito de abastecer el mercado de **materias primas** para la fabricación de productos de limpieza, enfocándose inicialmente en:
+El **19 de febrero de 2015**, se constituyó legalmente **Distribuidora de Químicos de Veracruz, S.A. de C.V.**, enfocada inicialmente en:
 - **Hipoclorito de sodio**  
-- **Sulfato de aluminio**  
+- **Sulfato de aluminio**
 
-La visión principal era brindar un **suministro oportuno y seguro** a clientes municipales y, gradualmente, a otros ramos de la industria química.
+El objetivo primigenio era ofrecer un **abastecimiento seguro** de esos químicos a clientes municipales (pequeños y medianos) y, con el tiempo, a **sectores industriales** con necesidades más amplias. Desde el inicio, DiQV se destacó por su **cultura de servicio** y el afán de llevar los productos **directamente** al cliente, reduciendo la necesidad de grandes almacenes.
 
-## 3. Aperturas Simultáneas (2015): Xalapa y Paso de Ovejas
+## 3. Apertura Simultánea: Xalapa y Paso de Ovejas (2015)
 
 ### 3.1 Almacén Xalapa
-Ese mismo año, DiQV abrió su primer **almacén en Xalapa**, concebido como **base de operaciones** para surtir distintas zonas de Veracruz, incluyendo municipios del norte y la región de Fortín. Este almacén se transformó en el **centro neurálgico** de la empresa, atendiendo la mayoría de los pedidos y estableciendo la reputación de DiQV como un **proveedor confiable**.
+Ese año, DiQV estableció un **almacén en Xalapa**, que funcionó como **base de operaciones** para surtir varias zonas de Veracruz, incluyendo la región de Fortín y municipios del norte. Desde aquí se gestionó la mayor parte de los pedidos, cimentando la reputación de DiQV como proveedor **confiable** y **práctico**.
 
 ### 3.2 Almacén Paso de Ovejas
-De manera simultánea, se habilitó un **almacén en Paso de Ovejas**, aprovechando la cercanía con la producción de **sulfato de aluminio**. En un inicio, también se acopió hipoclorito de sodio, aunque esta práctica cesó en 2022. La instalación de Paso de Ovejas continuó enfocada en el **suministro de sulfato de aluminio**, sirviendo a clientes del centro y norte del estado.
+Paralelamente, se habilitó un **almacén en Paso de Ovejas**, cercano a la producción de **sulfato de aluminio**. En un principio, también se acopió **hipoclorito de sodio**, pero esta práctica cesó en 2022. Actualmente, Paso de Ovejas se centra en el **suministro de sulfato de aluminio**, garantizando una logística eficiente a clientes del **centro y norte** del estado.
 
 ## 4. Extensión Geográfica
 
 ### 4.1 Tampico (2017)
-En **2017**, DiQV reconoció la creciente demanda de **gas cloro** y la complejidad de su manejo seguro, por lo que estableció un **almacén en Tampico**. Con ello, amplió su área de influencia hacia la región noreste, afianzando su imagen de **expertise** en productos con altos requisitos de seguridad.
+Para atender la demanda de **gas cloro** y sus requerimientos especiales de seguridad, en **2017** DiQV abrió un **almacén en Tampico**, ampliando su radio de acción hacia la región noreste y reforzando su posicionamiento en el manejo de **químicos de alta criticidad**.
 
 ### 4.2 Cosamaloapan (2018)
-Para cubrir eficazmente el **sur de Veracruz**, en **2018** se inauguró el **almacén de Cosamaloapan**, acercando los insumos a las autoridades locales y abriendo la posibilidad de atender a clientes industriales en la zona.
+En **2018**, se inauguró el **almacén en Cosamaloapan** para ofrecer entregas más ágiles en la zona sur de Veracruz, sirviendo principalmente a municipios con sistemas de agua potable y algunas industrias locales.
 
-## 5. Desarrollo de Transporte y Nuevos Productos (2021)
+## 5. Desarrollo Logístico y Nuevos Productos (2021)
 
 ### 5.1 Línea de Transporte y Ácido Sulfúrico
-A partir de **2021**, DiQV fortaleció su capacidad logística con la adquisición de **tractocamiones** y un enfoque más amplio en el transporte de químicos especializados, lo que permitió:
-- Incluir el **ácido sulfúrico** dentro de la oferta de productos, impulsando la atención a clientes con requerimientos más exigentes.  
-- Establecer un **servicio 24/7** para emergencias en ruta y asegurar la **continuidad operativa** de los usuarios.
+A partir de **2021**, DiQV invirtió en **tractocamiones** y **tanques especializados**, sumando el **ácido sulfúrico** a su catálogo. Este paso marcó la evolución hacia un servicio de transporte más **robusto**, con soporte de emergencias **24/7** y la capacidad de atender clientes que requieren cargas completas (36 t).
 
-### 5.2 Apertura de Córdoba (2021)
-En el mismo año, DiQV abrió un **almacén en Córdoba**, consolidando su presencia en la **región central** del estado. Este punto estratégico reforzó la cercanía con clientes municipales e industriales, integrando la cadena de suministro de forma más **efectiva**.
+### 5.2 Almacén en Córdoba (2021)
+Ese mismo año, DiQV instaló un **almacén en Córdoba**, fortaleciendo aún más su cobertura en la región central del estado y complementando la logística de Xalapa y Paso de Ovejas.
 
 ## 6. Patio de Transporte en Xalapa
-Para sostener el creciente **parque vehicular**, DiQV acondicionó un **patio de transporte** en Xalapa, desde donde se coordinan rutas, mantenimientos y operaciones logísticas. Este centro permite monitorear la flota y brindar respuestas ágiles ante cualquier incidente.
+Dado el crecimiento de la flota, se habilitó un **patio de transporte** en Xalapa, permitiendo:
+- **Coordinación eficaz** de rutas y mantenimientos.  
+- **Monitoreo constante** de los vehículos.  
+- **Atención ágil** ante cualquier incidente o ajuste de horario solicitado por el cliente.
 
-## 7. Evolución Hacia un Grupo Empresarial
-El **éxito** de DiQV, impulsado por sus diversos almacenes y la nueva línea de transporte, propició la creación de un **grupo corporativo** que unifica los departamentos administrativos, jurídicos, de recursos humanos y de analítica. Así:
-- DiQV se erigió en la **empresa pionera** del grupo, especializándose en distribución y transporte químico.  
-- Posteriormente surgieron otras divisiones, aprovechando la **cultura de innovación** y la red de contactos que DiQV desarrolló.
+## 7. Hacia un Grupo Empresarial
+El éxito acumulado propició la conformación de un **grupo corporativo (Nalve)** que concentra funciones:
+- **Administrativas y jurídicas**: Permisos, licencias, gestión de personal.  
+- **Recursos Humanos**: Contratación, capacitación y asistencia en normativas.  
+- **Analítica**: Evaluación de rutas, identificación de oportunidades y planes de expansión.
 
-## 8. Visión de Futuro y Digitalización
-Actualmente, DiQV:
-- **Fomenta** la digitalización de procesos y la adopción de herramientas de software para el control de inventarios, rutas y seguridad.  
-- **Refuerza** su compromiso con la calidad total, buscando estandarizar procedimientos y estatus normativos.  
-- **Expande** su portafolio químico y profundiza en la formación de su equipo, apostando por la capacitación continua y la mejora en la logística.
+Aunque DiQV es la compañía **pionera**, Nalve crece en distintas líneas de negocio, capitalizando la **experiencia logística** y las **relaciones con fabricantes** que DiQV ha forjado.
+
+## 8. Inclinación a la Digitalización y Sostenibilidad
+**Actualmente**, DiQV:
+- **Apuesta** por la **automatización** de procesos, con sistemas en desarrollo para la gestión de inventarios, pedidos en línea y seguimiento de flota en tiempo real.  
+- **Implementa** planes de **sostenibilidad**, optimizando rutas para reducir emisiones y manejando responsablemente los residuos.  
+- **Consolida** una visión de mejora continua, alineada con estándares de calidad total y planes futuros de certificaciones (ej. ISO 14001).
 
 ---
 
-## Referencias Internas
+## Referencias Relacionadas
 - [Información Básica](informacion_basica.md)  
 - [Capacidad Operativa](capacidad_operativa.md)  
 - [Certificaciones](certificaciones.md)
