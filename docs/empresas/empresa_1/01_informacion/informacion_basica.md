@@ -1,128 +1,134 @@
 ```yaml
 ---
-título: Capacidad Operativa DiQV
+título: Información Básica DiQV
 fecha_creación: 2025-01-11
 última_actualización: 2025-01-11
-versión: 1.0.0
+versión: 2.1.0
 ---
 ```
 
-# **Capacidad Operativa DiQV**
+# **Información Básica DiQV**
 
-## 1. Flota de Transporte
+## 1. Presentación General
 
-### 1.1 Tractocamiones y Tanques Especializados
-DiQV cuenta actualmente con **tres (3) tractocamiones** certificados para el transporte de materiales peligrosos, con un **cuarto** en proceso de adquisición. La flota se complementa con tanques especializados para distintos químicos:
+**Distribuidora de Químicos de Veracruz (DiQV)** se estableció el **19 de febrero de 2015** con el objetivo inicial de **distribuir materias primas** para la elaboración de productos de limpieza, principalmente **hipoclorito de sodio** y **sulfato de aluminio**.  
+- **En sus inicios**, DiQV atendía fundamentalmente a entidades gubernamentales interesadas en el tratamiento de agua y la producción de desinfectantes.  
+- **Con el tiempo**, la empresa fue ampliando su oferta, agregando otros químicos a su portafolio y desarrollando una logística cada vez más sólida.
 
-- **Ácido Sulfúrico**  
-  - **Tanques**: 3 unidades (acero al carbón)  
-  - **Capacidad**: 36 toneladas cada uno  
-  - **Certificaciones**: DOT/SCT corrosivos  
-
-- **Hipoclorito de Sodio**  
-  - **Tanque**: 1 unidad (acero con recubrimiento ahulado)  
-  - **Capacidad**: 36 toneladas  
-  - **Certificaciones**: DOT/SCT corrosivos  
-
-- **Sulfato de Aluminio Líquido**  
-  - **Tanque**: 1 unidad (acero inoxidable)  
-  - **Capacidad**: 36 toneladas  
-  - **Certificaciones**: DOT/SCT  
-
-- **Sulfato de Aluminio Sólido**  
-  - **Plataforma** (en proceso de adquisición)  
-  - **Capacidad**: 34 toneladas  
-  - **Uso**: Carga y transporte de sacos o big bags de sulfato sólido
-
-### 1.2 Otras Unidades
-- **Camiones Medianos**: Para entregas urbanas y regionales, capacidad aproximada de 12 toneladas.  
-- **Unidades de Apoyo**: Camionetas de servicio técnico, vehículos de supervisión y respuesta rápida.
-
-### 1.3 Operación 24/7 y Logística de Emergencias
-Aunque no se ofrece un servicio formal de emergencias, DiQV mantiene **disponibilidad 24/7** para atender incidencias de transporte y proveer asistencia básica a sus clientes, como:
-- Monitoreo de la ruta de los vehículos.  
-- Comunicación constante con operadores.  
-- Posibilidad de reprogramar entregas urgentes o gestionar situaciones de urgencia (fugas, derrames, etc.) de manera coordinada.
+A partir de **2021**, tras reforzar su **línea de transporte** con tractocamiones y pipas especializadas, DiQV incorporó formalmente la **distribución de ácido sulfúrico** como parte de sus servicios, respondiendo a la demanda de clientes industriales que requerían este producto en grandes volúmenes.
 
 ---
 
-## 2. Almacenes y Cobertura Geográfica
+## 2. Datos Legales y de Contacto
 
-### 2.1 Centros de Almacenamiento
-En complemento con los datos de [Historia de la Empresa](historia_empresa.md) e [Información Básica](informacion_basica.md), la infraestructura de DiQV incluye:
-- **Xalapa** (desde 2015):  
-  * Base principal de operaciones logísticas, con patio de transporte.  
-  * Manejo prioritario de hipoclorito de sodio.
-- **Paso de Ovejas** (desde 2015):  
-  * Enfoque en sulfato de aluminio (líquido y sólido).  
-  * Infraestructura apta para manejar volúmenes importantes sin interrumpir el flujo operativo.
-- **Tampico** (desde 2017):  
-  * Almacén especializado en gas cloro y otras sustancias con altos requisitos de seguridad.  
-  * Posiciona a DiQV en la región noreste.
-- **Cosamaloapan** (desde 2018):  
-  * Distribución hacia la zona sur de Veracruz, reforzando entregas a ayuntamientos y clientes locales.
-- **Córdoba** (desde 2021):  
-  * Punto estratégico para la región central, facilitando la respuesta a municipios e industrias aledañas.
+### 2.1 Razón Social y RFC
+- **Razón Social**: Distribuidora de Químicos de Veracruz, S.A. de C.V.  
+- **RFC**: DQV1502193J5  
+- **Fecha de Fundación**: 19 de febrero de 2015  
 
-### 2.2 Alcance y Rutas
-La **cobertura principal** de DiQV se concentra en Veracruz y regiones limítrofes, con rutas que pueden extenderse hacia otras entidades según los requerimientos de cada cliente.  
-- **Transporte de ácido sulfúrico**: Se efectúa con las pipas de acero al carbón (36 toneladas), cubriendo diversas rutas clave sin detallar información sensible de proveedores o clientes.  
-- **Distribución de hipoclorito y sulfato de aluminio**: Mayormente orientada al sector gubernamental, pero abierta a industrias en expansión.
+### 2.2 Contactos y Horarios
 
----
+- **Atención Comercial**  
+  - **Luis Salazar** — 228 235 6878 (WhatsApp)  
+  - **Horario**: Lunes a Viernes, 9:00–15:00 y 16:00–18:00  
 
-## 3. Procesos Operativos y Seguridad
+- **Emergencias / Transporte 24/7**  
+  - **Javier Preza** — 222 516 0158 (WhatsApp)
 
-### 3.1 Carga, Descarga y Protocolos Básicos
-- **Carga/Descarga**:  
-  * Personal capacitado en manejo de químicos, empleando equipo de protección individual (EPI).  
-  * Procedimientos estandarizados para reducir riesgos de derrames o contaminación.
-- **Seguridad en Ruta**:  
-  * Monitoreo vía GPS de unidades.  
-  * Evaluación constante de rutas y paradas seguras.  
-  * Comunicación fluida entre operadores y central de logística (Xalapa).
+### 2.3 Ubicación Principal
+- **Sede Actual**: Juan Escutia 7, Colonia 21 de Marzo, 91110 Veracruz, Ver.  
+- Patio de transporte para la **coordinación** y **mantenimiento** de la flota.
 
-### 3.2 Mantenimiento y Control
-- **Revisión Preventiva**:  
-  * Cronogramas de inspección mecánica y certificaciones de tanques.  
-  * Programas de limpieza y desinfección para evitar contaminación cruzada de químicos.
-- **Registro y Documentación**:  
-  * Bitácoras de viaje y guías de transporte.  
-  * Documentos SCT y DOT actualizados en cada unidad.
-
-### 3.3 Planes de Mejora Futura
-- Formalizar metodologías de medición interna (satisfacción del cliente, resolución en primera llamada).  
-- Integrar más herramientas digitales en la supervisión de rutas y mantenimiento predictivo.  
-- Optimizar la cadena de suministro con sistemas ERP/CRM vinculados a la logística.
+### 2.4 Presencia Geográfica
+- **Almacenes en Veracruz**: Xalapa y Paso de Ovejas (desde 2015), Cosamaloapan (2018)  
+- **Tampico (2017)**: Manejo especializado de gas cloro y materiales peligrosos  
+- **Córdoba (2021)**: Refuerzo de la cobertura en la región central del estado  
+- **Próxima Expansión**: Veracruz, Ver. *(pendiente de confirmación de dirección y fecha)*
 
 ---
 
-## 4. Indicadores Clave y Perspectivas
+## 3. Filosofía Empresarial
 
-### 4.1 Medición Actual
-- **Utilización de flota**: >85%  
-- **Disponibilidad de unidades**: >95%  
-- **Exactitud en entregas**: >90%  
-- **Tiempo de respuesta a urgencias**: 4-6 horas en la zona metropolitana de Veracruz
+### 3.1 Misión
+Proveer un **suministro confiable** de químicos que respalde las operaciones de cada cliente, priorizando seguridad, eficiencia y continuidad operativa. Inicialmente enfocado en las materias primas para el **desarrollo de productos de limpieza** y, con el paso del tiempo, en la **ampliación** hacia otros sectores industriales.
 
-*(Al no existir todavía una metodología formal para ciertos indicadores, estos porcentajes representan metas internas y se evalúan de manera periódica.)*
+### 3.2 Visión
+Consolidarnos como el **aliado principal** en el manejo, transporte y distribución de químicos en la región, distinguiéndonos por:
+- **Puntualidad** y **transparencia** en cada entrega.  
+- **Versatilidad** para atender requerimientos desde hipoclorito hasta ácido sulfúrico.  
+- **Adaptabilidad** a distintos mercados, tanto públicos como privados.
 
-### 4.2 Futuro Inmediato
-- **Adquisición de un cuarto tractocamión** (en trámite).  
-- **Plataforma para sulfato de aluminio sólido**: 34 toneladas de capacidad, agilizando la carga en sacos o big bags.  
-- **Continuar** la expansión en regiones colindantes, sin divulgar rutas específicas.
+### 3.3 Valores Fundamentales
+- **Eficiencia**: Optimizar procesos para reducir tiempos y costos.  
+- **Puntualidad**: Respetar los plazos de entrega sin excepción.  
+- **Confiabilidad**: Basada en una logística especializada y un trato cercano con los fabricantes.  
+- **Adaptabilidad**: Ajustar soluciones a las necesidades de cada cliente.  
+- **Transparencia**: Fomentar una comunicación abierta y honesta en toda la cadena de suministro.
+
+### 3.4 Eslogan
+“**DiQV** — Suministro Confiable. Resultados Consistentes.”
 
 ---
 
-## 5. Conexiones con Otros Documentos
-- [Información Básica](informacion_basica.md): Para detalles de contacto, horario de atención y la razón social de DiQV.  
-- [Historia de la Empresa](historia_empresa.md): Expansión cronológica, orígenes y apertura de almacenes.  
-- [Certificaciones](certificaciones.md): Permisos, licencias y planes de adopción de normas adicionales.
+## 4. Portafolio de Servicios y Alcance
+
+1. **Venta y Distribución de Químicos**  
+   - **Hipoclorito de sodio** y **sulfato de aluminio** (productos iniciales).  
+   - **Gas cloro** y otros químicos de alta complejidad (Tampico como base especializada).  
+   - **Ácido sulfúrico** (incorporado formalmente en 2021, con una línea de transporte preparada para grandes volúmenes).
+
+2. **Asesoría Básica**  
+   - Orientación inicial sobre el manejo seguro de los químicos comercializados, basada en la experiencia adquirida desde la fundación.
+
+3. **Transporte y Soporte 24/7**  
+   - Patrullaje de emergencias para incidencias o urgencias en ruta.  
+   - Centro de operaciones en Xalapa, con un patio de transporte para coordinar tractocamiones y pipas.
+
+4. **Planes de Expansión**  
+   - Crecer en la cobertura geográfica (futuro almacén en Veracruz, Ver.).  
+   - Fortalecer la flota de transporte y continuar adoptando prácticas de calidad total.
+
+---
+
+## 5. Referencias Relacionadas
+- [Historia de la Empresa](historia_empresa.md)  
+- [Capacidad Operativa](capacidad_operativa.md)  
+- [Certificaciones](certificaciones.md)  
+- [Índice de Información](indice_informacion.md)
 
 ---
 
 ## Historial de Cambios
 
+**2025-01-11 — v2.1.0**  
+- Se clarifica que **ácido sulfúrico** se incorporó en 2021, tras reforzar la línea de transporte.  
+- Se menciona la **apertura de Córdoba** en 2021 como parte de la expansión regional.  
+- Ajustada la presentación inicial para enfatizar el enfoque en productos de limpieza (hipoclorito y sulfato) al inicio.  
+- Mejora general de la redacción y alineación con la narrativa histórica.
+
+**2025-01-11 — v2.0.2**  
+- Se eliminaron referencias a un traslado previo en Xalapa.  
+- Se incluyó el ácido sulfúrico en la lista de productos principales.  
+- Se fortaleció el enfoque en químicos generales.
+
+**2025-01-11 — v2.0.2**  
+- Se eliminó la mención a un traslado previo específico en Xalapa.  
+- Se consolidaron todos los cambios anteriores en una versión final mejorada.
+
+**2025-01-11 — v2.0.1**  
+- Se eliminó la mención de la ausencia de planes formales u objetivos numéricos.  
+- Se incluyó el **ácido sulfúrico** en la lista de productos principales.  
+- Se fortaleció el enfoque en químicos generales.
+
+**2025-01-11 — v2.0.0**  
+- Reestructurado el documento con enfoque más amplio en el manejo de químicos.  
+- Agregadas acciones básicas en la Visión.  
+- Unificado el tono profesional y accesible.
+
+**2025-01-11 — v1.0.1**  
+- Aclaración sobre la “próxima expansión” en Veracruz (pendiente).  
+- Integrada la motivación de la fundación con base en la experiencia familiar.  
+- Reforzada la sección de Valores y unificados datos de contacto.
+
 **2025-01-11 — v1.0.0**  
-- Documento inicial que incorpora la **flota actual**, la **introducción de ácido sulfúrico** (2021) y las **bases de seguridad y transporte 24/7**.  
-- Destaca la infraestructura en Xalapa (patio de transporte) y almacenes en Paso de Ovejas, Tampico, Cosamaloapan y Córdoba.
+- Documento inicial con estructura base (datos de identificación, filosofía empresarial y referencias).
