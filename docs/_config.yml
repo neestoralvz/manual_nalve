@@ -1,0 +1,7 @@
+theme: minima
+
+# Configuración adicional
+title: "Manual de Usuario - NALVE"
+description: "Documentación oficial de NALVE"
+baseurl: "/docs" # Si tu sitio está en una subcarpeta
+url: "https://tu-usuario.github.io" # Cambia esto por tu URL de GitHub Pages
