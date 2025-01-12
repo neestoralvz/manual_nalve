@@ -10,6 +10,7 @@ versión: 1.0.0
 ## Políticas Generales
 Esta sección contiene políticas y directrices que aplican a todas las empresas:
 
+- [Lineamientos Generales](01_lineamientos_generales/00_indice_lineamientos.md)
 - Políticas de cumplimiento normativo
 - Políticas de calidad
 - Políticas de seguridad

@@ -1,9 +1,11 @@
+**Documento Actualizado (v4.0.1)**
+
 ```yaml
 ---
 título: Manual de Estructura de Documentación
 fecha_creación: 2025-01-10
-última_actualización: 2025-01-12
-versión: 4.0.0
+última_actualización: 2025-01-13
+versión: 4.0.1
 ---
 ```
 
@@ -23,6 +25,8 @@ Este manual **es de uso obligatorio** para cada área y empresa que forme parte 
 - Aplica a todas las áreas y empresas que generen o modifiquen documentación interna.
 - **Incluye** todo tipo de archivo (Markdown, PDF, hojas de cálculo), pero la versión oficial es `.md`.
 - Se relaciona con otros lineamientos (calidad, seguridad), pero **este manual** define la **estructura documental** y su **gestión**.
+
+---
 
 ## 2. Estructura de Carpetas
 
@@ -44,16 +48,21 @@ docs/empresas/
 Dentro de cada empresa, **se recomienda** (o se exige, según el caso) un esquema:
 
 1. **`01_informacion/`**  
-   - Historia, misión, **resumen ejecutivo** (obligatorio), datos legales, contacto.  
+   - Historia, misión, **resumen_ejecutivo** (obligatorio), datos legales, contacto.  
+
 2. **`02_organizacion/`**  
    - Organigramas, roles y responsabilidades, manuales departamentales.  
+
 3. **`03_politicas/`**  
    - Políticas específicas de la empresa (calidad, seguridad, ética).  
+
 4. **`04_procesos/`**  
    - Procedimientos, instructivos de trabajo, diagramas de flujo.  
+
 5. **`05_productos_servicios/`**  
    - **Obligatorio** para toda empresa que venda productos o preste servicios formales.  
    - Fichas técnicas, especificaciones, catálogos, manuales de servicio.  
+
 6. **`06_recursos/`**  
    - Plantillas, formatos, presentaciones.  
    - Subdividir en:
@@ -61,6 +70,7 @@ Dentro de cada empresa, **se recomienda** (o se exige, según el caso) un esquem
      - `02_plantillas/`  
      - `03_marca/` (manual de identidad, logos)  
      - `04_presentaciones/`  
+
 7. **`07_referencias/`**  
    - Normatividad, bibliografía, links.
 
@@ -77,6 +87,8 @@ Almacena recursos y lineamientos **compartidos**:
 
 Revisar primero `global/` antes de crear un documento similar en una carpeta de empresa, para evitar duplicidad.
 
+---
+
 ## 3. Detalles Ampliados de las Subcarpetas
 
 Este apartado agrega más ejemplos y descripciones para cada subcarpeta, facilitando la comprensión de los archivos sugeridos.
@@ -84,6 +96,7 @@ Este apartado agrega más ejemplos y descripciones para cada subcarpeta, facilit
 ### 3.1 `01_informacion/`
 **Archivos Sugeridos**  
 - `resumen_ejecutivo.md`: Expone la **visión general** de la empresa, objetivos inmediatos y áreas clave. **Obligatorio**.  
+  - Se recomienda una extensión de 1 a 2 páginas para facilitar la comprensión.  
 - `historia_empresa.md`: Cronología de eventos significativos y desarrollo de la empresa.  
 - `mision_vision.md`: Declaraciones formales de misión y visión (si no se incluyen en `resumen_ejecutivo.md`).  
 - `datos_legales.md`: RFC, razón social, permisos básicos, constitución legal.  
@@ -112,7 +125,7 @@ Lineamientos:
 - `diagrama_flujo.md`: Representación visual del proceso.
 
 Lineamientos:
-- Cada procedimiento debe incluir versión, objetivo, alcance, pasos, responsabilidades, referencias.
+- Cada procedimiento debe incluir versión, objetivo, alcance, pasos, responsabilidades y referencias.
 
 ### 3.5 `05_productos_servicios/`
 **Archivos Sugeridos**  
@@ -129,7 +142,9 @@ Lineamientos:
 - `01_formatos/`: Ej. `formato_solicitud_compra.md`  
 - `02_plantillas/`: Ej. `plantilla_minutas.md`  
 - `03_marca/`: Ej. `manual_identidad_corporativa.md`, logos  
-- `04_presentaciones/`: Ej. `presentacion_corporativa.md`
+- `04_presentaciones/`: Ej. `presentacion_corporativa.md`  
+
+> Las empresas pueden ampliar o reducir estas subcarpetas según sus necesidades, pero se recomienda conservarlas para mantener la coherencia.
 
 ### 3.7 `07_referencias/`
 **Archivos Sugeridos**  
@@ -137,11 +152,15 @@ Lineamientos:
 - `lista_bibliografia.md`: Fuentes utilizadas.  
 - `enlaces_utiles.md`: Sitios web relevantes.
 
+---
+
 ## 4. Índices
 
 - **`docs/00_indice_general.md`**: Índice maestro de toda la documentación.  
 - **`00_indice_empresa.md`** en cada empresa: lista subcarpetas y archivos clave.  
 - **`00_indice_global.md`** en `docs/global/`: índice de recursos compartidos.
+
+---
 
 ## 5. Encabezado Estandarizado
 
@@ -157,6 +176,8 @@ nivel_acceso: [PUBLICO|RESTRINGIDO|CONFIDENCIAL]
 ```
 y finaliza con una sección de **Historial de Cambios**.
 
+---
+
 ## 6. Control de Versiones y Mantenimiento
 
 ### 6.1 Política de Versionado
@@ -171,37 +192,64 @@ Se utiliza versionado semántico **X.Y.Z**:
 - El historial de cambios se mantiene **al final** de cada documento.
 
 ### 6.3 Auditorías
-1. **Frecuencia**: Trimestral (documentos críticos), semestral (estructura), anual (todo el repositorio).  
-2. **Responsables**: Control Documental, Coordinador de Empresa, Equipo de Calidad.  
-3. **Alcance**: Verificar subcarpetas correctas, encabezados YAML, enlaces, documentación obsoleta, lineamientos de redacción.
+
+1. **Frecuencia**  
+   - Trimestral para documentos críticos  
+   - Semestral para revisar la estructura general  
+   - Anual para verificar todo el repositorio
+
+2. **Responsables**  
+   - (Futuro) Control Documental, mientras tanto la Dirección General asume este rol.  
+   - Coordinador de Empresa  
+   - Equipo de Calidad
+
+3. **Alcance**  
+   - Verificar subcarpetas correctas, encabezados YAML y enlaces  
+   - Identificar documentación obsoleta  
+   - Revisar lineamientos de redacción
+
+> **Nota**: Hasta que se constituya formalmente un área de Control Documental, la Dirección General puede reprogramar o ajustar las auditorías en función de la disponibilidad y prioridades de cada empresa.
+
+---
 
 ## 7. Gestión de Riesgos y Calidad en Documentación
 
-- **Identificación de riesgos**: Falta de actualización, duplicación, pérdida de versiones.  
+- **Identificación de riesgos**: Falta de actualización, duplicación, pérdida de versiones, uso de documentos obsoletos.  
 - **Mitigación**: Revisiones internas, backups regulares, auditorías.  
 - **Capacitaciones**: El personal que crea/edita documentos recibe formación mínima en lineamientos de redacción y versionado.
 
+---
+
 ## 8. Procedimiento para Crear o Modificar Documentos
 
-1. **Identificación**: Ubicar en la carpeta y subcarpeta correctas.  
-2. **Creación/Modificación**: Respetar encabezado YAML, secciones y lineamientos de redacción.  
-3. **Registro**: Actualizar el índice y anotar en el historial de cambios.  
-4. **Revisión**: Revisor Técnico valida contenido, Control Documental valida formato.  
-5. **Publicación**: Aprobador autoriza y se actualizan enlaces.
+1. **Identificación**  
+   Ubicar en la carpeta y subcarpeta correctas.  
+2. **Creación/Modificación**  
+   Respetar encabezado YAML, secciones y lineamientos de redacción.  
+3. **Registro**  
+   Actualizar el índice y anotar en el historial de cambios.  
+4. **Revisión**  
+   Revisor Técnico valida contenido, mientras que la Dirección General (o rol asignado) valida el cumplimiento de forma.  
+5. **Publicación**  
+   El Aprobador autoriza y se actualizan enlaces relacionados.
+
+---
 
 ## 9. Roles y Flujo de Aprobación
 
 ### 9.1 Roles
-- **Autor**: Creador del documento.  
+- **Autor**: Crea o modifica el documento.  
 - **Revisor Técnico**: Valida exactitud y completitud.  
-- **Aprobador**: Autoriza la publicación final.  
-- **Control Documental**: Comprueba lineamientos y versión.
+- **Aprobador**: Autoriza publicación final.  
+- **Control Documental**: Rol futuro o asumido temporalmente por Dirección/Autor, verifica lineamientos y versiones.
 
 ### 9.2 Flujo
 1. Autor redacta/actualiza.  
 2. Revisor Técnico verifica exactitud.  
-3. Control Documental asegura el cumplimiento de forma.  
-4. Aprobador da visto bueno final.
+3. (Opcional) Control Documental asegura cumplimiento de forma.  
+4. Aprobador (Dirección General) da visto bueno final.
+
+---
 
 ## 10. Manejo de Otros Formatos
 
@@ -217,6 +265,8 @@ Se utiliza versionado semántico **X.Y.Z**:
 - Incluir versión en el nombre, p. ej. `manual_2025_v1.0.0.pdf`  
 - Mantener carpeta `versiones_anteriores/` si es necesario.
 
+---
+
 ## 11. Documentación Obsoleta
 
 ### 11.1 Identificación
@@ -229,12 +279,14 @@ Se utiliza versionado semántico **X.Y.Z**:
 - Documentar referencia cruzada.  
 - Mantener el tiempo que dicte la normativa.
 
+---
+
 ## 12. Control de Acceso y Confidencialidad
 
 ### 12.1 Niveles de Acceso
-- **Público**: Libre para toda la organización.  
-- **Restringido**: Solo personal autorizado.  
-- **Confidencial**: Acceso limitado con aprobación adicional.
+- **Público**: Libre para toda la organización  
+- **Restringido**: Solo personal autorizado  
+- **Confidencial**: Acceso limitado con aprobación adicional
 
 ### 12.2 Identificación
 ```yaml
@@ -242,16 +294,21 @@ nivel_acceso: [PUBLICO|RESTRINGIDO|CONFIDENCIAL]
 ```
 en el YAML inicial.
 
-## 13. Glosario de Términos (Opcional)
+---
 
-Si el documento incluye tecnicismos, se recomienda agregar un glosario al final, por ejemplo:
+## 13. Glosario de Términos (Recomendado)
+
+Si el documento introduce tres o más términos técnicos, se recomienda fuertemente incluir un Glosario al final. Este Glosario ayuda a mantener la claridad y a educar al lector en el vocabulario específico.
+
+Ejemplo:
 
 ```markdown
 ## Glosario
-- **Backups**: Copias de seguridad.
-- **ADR**: Acuerdo europeo para transporte de mercancías peligrosas por carretera.
-- **Obsoleto**: Documento retirado de uso activo, etc.
+- **Backups**: Copias de seguridad
+- **ADR**: Acuerdo europeo para transporte de mercancías peligrosas
+- **Obsoleto**: Documento que ya no se usa activamente
 ```
+
 El glosario se actualiza conforme surjan nuevos términos.
 
 ---
@@ -259,43 +316,56 @@ El glosario se actualiza conforme surjan nuevos términos.
 ## 14. Lineamientos de Redacción
 
 ### 14.1 Estilo y Tono
-- Español neutro, **profesional** pero accesible.  
-- Evitar jerga innecesaria.  
-- Uso de voz activa y estructura concisa.
+- Español neutro, **profesional** pero accesible  
+- Evitar jerga innecesaria  
+- Uso de voz activa y estructura concisa  
 
 ### 14.2 Estructura del Documento
 - **Extensión recomendada**:  
   - Políticas: 3–7 páginas  
   - Procedimientos: 2–5 páginas  
-- **Secciones estándar**: objetivo, desarrollo, conclusiones, referencias.
+- **Secciones estándar**: objetivo, desarrollo, conclusiones, referencias
 
 ### 14.3 Elementos Visuales
-- Tablas Markdown para datos.  
-- Listas ordenadas o viñetas.  
-- Enlaces internos/externos.  
-- Imágenes en `imagenes/` con nombre descriptivo.
+- Tablas Markdown para datos  
+- Listas ordenadas o viñetas  
+- Enlaces internos/externos  
+- Imágenes en `imagenes/` con nombre descriptivo
 
 ---
 
 ## 15. Historial de Cambios
 
 - **2025-01-10 – v1.0.0**  
-  Versión inicial con estructura sin subcarpetas numeradas.  
+  Versión inicial con estructura sin subcarpetas numeradas.
+
 - **2025-01-10 – v2.0.0**  
-  Cambio a subcarpetas numeradas en español y mayor descripción.  
+  Cambio a subcarpetas numeradas en español y mayor descripción.
+
 - **2025-01-10 – v2.1.0**  
-  Detalles específicos de cada carpeta.  
+  Detalles específicos de cada carpeta.
+
 - **2025-01-10 – v2.1.1**  
-  Reorganización de secciones y numeración.  
+  Reorganización de secciones y numeración.
+
 - **2025-01-10 – v3.0.0**  
-  Expansión de alcances, control de versiones y acceso.  
+  Expansión de alcances, control de versiones y acceso.
+
 - **2025-01-11 – v3.1.0**  
-  Inclusión de auditorías y versión con ejemplos concretos.  
+  Inclusión de auditorías y versión con ejemplos concretos.
+
 - **2025-01-12 – v4.0.0**  
-  - Ajustes críticos para numeración selectiva de archivos.  
-  - **`05_productos_servicios/`** pasa a ser obligatoria (siempre hay algo que ofrecer).  
-  - Resumen Ejecutivo obligatorio en `01_informacion/`.  
-  - Ejemplos ampliados en cada subcarpeta.  
-  - Reorganización de `06_recursos/`.  
-  - Posibilidad de Glosario al final para tecnicismos.  
-  - Refinamiento general de redacción, evitando redundancias.
+  - Ajustes críticos para numeración selectiva de archivos  
+  - **`05_productos_servicios/`** pasa a ser obligatoria (siempre hay algo que ofrecer)  
+  - Resumen Ejecutivo obligatorio en `01_informacion/`  
+  - Ejemplos ampliados en cada subcarpeta  
+  - Reorganización de `06_recursos/`  
+  - Posibilidad de Glosario al final para tecnicismos  
+  - Refinamiento general de redacción, evitando redundancias
+
+- **2025-01-13 – v4.0.1**  
+  - Se agrega nota aclaratoria sobre la ausencia temporal de un área formal de Control Documental (Sección 6.3).  
+  - Se cambia el Glosario de “Opcional” a “Recomendado” (Sección 13).  
+  - Se detalla la obligatoriedad y extensión del `resumen_ejecutivo.md`.  
+  - Se refina la explicación en la sección de subcarpetas (`06_recursos/`).  
+  - Historial de cambios al final del documento.
