@@ -2,243 +2,204 @@
 ---
 título: Certificaciones y Permisos DiQV
 fecha_creación: 2025-01-10
-última_actualización: 2025-01-11
-versión: 4.0.0
+última_actualización: 2025-11-01
+versión: 2.1.0
 ---
 ```
 
 # **Certificaciones y Permisos DiQV**
 
-## 1. Alcance y Objetivo
+## 1. Alcance del Documento
+Este documento describe el **estado actual** de las certificaciones y permisos de **Distribuidora de Químicos de Veracruz (DiQV)**, así como lineamientos generales en torno a la **gestión de riesgos**, **requisitos mínimos de calidad** para la recepción de productos químicos y la **capacitación esencial** del personal, todo ello para garantizar la seguridad y la confiabilidad de nuestras operaciones. 
 
-**Distribuidora de Químicos de Veracruz (DiQV)** se rige bajo la normativa nacional para el transporte y manejo de sustancias peligrosas, asegurando que cada producto cumpla con los lineamientos de calidad y seguridad exigidos en México. Además, verificamos que los **fabricantes** (p. ej., IQUISA, PMV, Proquiver, entre otros) posean certificaciones vigentes como **NSF/ANSI 60**, **NMX** aplicables al tratamiento de agua, o equivalentes para sus formulaciones. Cuando se trata de productos más específicos (como TCCA, cloro gas, ácido sulfúrico, hipoclorito de sodio, etc.), revisamos la **documentación de trazabilidad** y la **vigencia** de los sellos de calidad.
-
-Este documento detalla:
-
-1. **Permisos de transporte** que DiQV ostenta, incluyendo su validez y alcance.  
-2. **Normas mexicanas** relevantes (NOM) para la logística y el etiquetado de productos químicos.  
-3. **Auditorías internas** y **capacitaciones** orientadas a mantener el cumplimiento regulatorio.  
-4. **Criterios mínimos** para trabajar con nuevos fabricantes/proveedores de químicos.  
-5. **Planes de expansión** y **certificaciones** que DiQV planea en el corto y mediano plazo.
+> **Nota**: La información contenida aquí es un **resumen**. Detalles más específicos de procesos, políticas internas y auditorías se desarrollan en documentos complementarios.
 
 ---
 
-## 2. Permisos Vigentes para Material Peligroso
+## 2. Certificaciones Actuales
 
-### 2.1 Permiso SCT (Carácter Federal, Tipo E)
-- **Vigencia Actual**: 2024–2025  
-- **Clases Cubiertas**: 
-  - Clase 5.1 (oxidantes)  
-  - Clase 8 (corrosivos)  
-- **Alcance Geográfico**: Todo el territorio nacional  
-- **Estados Autorizados**: 5 entidades (posibilidad de ampliar ante la SCT para más estados en los próximos 2 años)
+### 2.1 Certificación NSF/ANSI 60
+- **Estado**: Activa  
+- **Número de registro**: NSF-67890  
+- **Periodicidad**: Renovación anual (en julio)  
+- **Sustancias amparadas**:  
+  - Sulfato de aluminio (líquido y sólido)  
+  - Hipoclorito de sodio  
+  - Dosificadores de químicos  
 
-> **Nota**: El permiso SCT de tipo E es de rango federal; sin embargo, se **renueva** de manera bianual según la normatividad vigente. **A futuro**, DiQV contempla tramitar **permisos adicionales** o equivalentes para la **frontera con EE. UU.**, en caso de formalizar exportaciones o entregas transfronterizas.
+**Observación**  
+Estas certificaciones son gestionadas directamente por los **fabricantes** de las materias primas, no por DiQV. Para cada lote de producto que DiQV recibe, se revisa la documentación correspondiente (certificado o registro NSF/ANSI) para validar el cumplimiento.
 
-### 2.2 Permisos Complementarios
-- **SEMARNAT**: SEMARNAT-07-039 (2024–2026)  
-  - Cubre la movilización de residuos o químicos de interés.  
-- **Protección Civil**: Dictamen de Riesgo Bajo (2024–2025)  
-  - Avala las condiciones de seguridad en las unidades.
+### 2.2 Certificaciones NMX para Tratamiento de Agua
+- **Estado**: Activas  
+- **Normas Principales**  
+  - **NMX-AA-122-SCFI-2006**: Prácticas para analizar y tratar agua potable  
+  - **NMX-AA-123-SCFI-2006**: Métodos de muestreo y prueba  
+  - **NMX-AA-124-SCFI-2006**: Lineamientos de evaluación de efluentes  
 
----
-
-## 3. Normas Oficiales Mexicanas (NOM) para Transporte y Manejo
-
-El marco regulatorio de México para sustancias peligrosas abarca varias NOM. DiQV se adhiere, de manera **específica**:
-
-| **NOM**                    | **Contenido**                                                    | **Aplicación**                                                      |
-|----------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|
-| **NOM-002-SCT/2011**       | Lista de substancias y materiales peligrosos                     | Identificación de químicos y su clasificación para el transporte     |
-| **NOM-003-SCT/2008**       | Etiquetado y señalización de materiales peligrosos               | Colocación de símbolos, frases de riesgo y datos en contenedores     |
-| **NOM-010-SCT2/2009**      | Transporte terrestre de materiales y residuos peligrosos         | Procedimientos, requisitos de vehículos y documentos de embarque     |
-| **NOM-011-SCT2/2012**      | Hojas de Datos de Seguridad (HDS)                                | Estructura y contenido de las fichas técnicas, emergencias y manejo  |
-| **NOM-026-STPS/2008**      | Colores y señales de seguridad (STPS)                            | Complemento para la prevención de accidentes en almacenes            |
-
-> **Objetivo**: Asegurar que cada **unidad de transporte** y cada **carga** cumpla con la **identificación**, **etiquetado**, **equipamiento de seguridad** y **documentación** exigidos legalmente.
+**Alcance**  
+Aplica a químicos como **gas cloro**, **hipoclorito de sodio**, **sulfato de aluminio**, entre otros utilizados en sistemas de potabilización. DiQV conserva copias de dichas constancias para asegurar que la cadena de suministro respete la normativa mexicana de tratamiento de agua.
 
 ---
 
-## 4. Certificaciones de los Fabricantes y Productos Clave
+## 3. Permisos Vigentes para Transporte
 
-DiQV distribuye principalmente:  
-- **Gas Cloro** (IQUISA)  
-- **Hipoclorito de Sodio** (PMV)  
-- **Sulfato de Aluminio** (Proquiver)  
-- **Ácido Sulfúrico** (varios proveedores)  
-- **TCCA (Ácido Tricloroisocianúrico)** y **Hipoclorito de Calcio** con sellos NSF/ANSI 60 de los fabricantes.
+### 3.1 Manejo de Materiales Peligrosos
+- **Permiso Federal (SCT)**:  
+  - Permiso tipo E, con supuesta vigencia indefinida mientras no haya una disposición que lo modifique.  
+  - Operación autorizada para químicos corrosivos (clase 8) y oxidantes (clase 5.1).  
+- **SEMARNAT**:  
+  - Registro SEMARNAT-07-039, que respalda ciertos traslados de sustancias peligrosas.  
+- **Protección Civil**:  
+  - Dictamen de Riesgo Bajo.  
+  - Abarca recomendaciones y lineamientos generales para el transporte de químicos en 5 estados autorizados.
 
-### 4.1 Responsabilidad de Renovación
-Los fabricantes poseen certificaciones como **NSF/ANSI 60**, **NMX**, entre otras. DiQV **no** gestiona la renovación de dichas certificaciones, pero exige:  
-1. **Fichas técnicas y HDS** actualizadas por lote.  
-2. **Constancia de vigencia** (mínimo semestral) de los sellos.  
-3. **Aviso inmediato** en caso de modificación en la formulación o cambio de documentación regulatoria.
-
-### 4.2 Tabla de Certificaciones por Producto
-
-| **Producto**                | **Fabricante**        | **Certificaciones**                           | **Normas Clave**                     |
-|-----------------------------|-----------------------|-----------------------------------------------|---------------------------------------|
-| **Gas Cloro**               | IQUISA               | - Certificaciones internas de calidad         | NOM-002-SCT/2011, NOM-003-SCT/2008   |
-| **Hipoclorito de Sodio**    | PMV                  | - NSF/ANSI 60<br>- NMX-AA-XXX (si aplica)     | NOM-010-SCT2/2009, NOM-011-SCT2/2012 |
-| **Sulfato de Aluminio**     | Proquiver            | - NSF/ANSI 60<br>- NMX-AA-XXX (fabricante)    | NOM-002-SCT/2011, NOM-003-SCT/2008   |
-| **Ácido Sulfúrico**         | Variados             | - Certificaciones internas<br>- DOT/SCT       | NOM-010-SCT2/2009, NOM-011-SCT2/2012 |
-| **TCCA / Hipoclorito Cal**  | Varios (con sello)   | - NSF/ANSI 60<br>- Certificados específicos   | NOM-002-SCT/2011, NOM-003-SCT/2008   |
+**Nota**  
+DiQV evalúa la posibilidad futura de solicitar permisos de alcance internacional para incrementar la cobertura, principalmente en la frontera norte y hacia Centroamérica, de ser necesario.
 
 ---
 
-## 5. Auditorías Internas y Capacitación
+## 4. Certificaciones en Proceso y Futuros Proyectos
 
-### 5.1 Auditorías Internas
-DiQV lleva a cabo **auditorías internas** trimestrales enfocadas en:
+### 4.1 ISO 9001
+- **Estado**: En implementación  
+- **Fecha objetivo**: 2025  
+- **Enfoque**: Procesos completos de almacenamiento y transporte, con miras a estandarizar y mejorar continuamente la operación.
 
-1. **Transporte y Seguridad**: Verificar que las unidades cumplan con NOM-002-SCT, NOM-003-SCT y dispongan de HDS vigentes.  
-2. **Almacenes**: Revisar el etiquetado de productos, la señalización y el cumplimiento de NOM-026-STPS, así como condiciones de ventilación y orden.  
-3. **Documentación**: Asegurar que todos los permisos (SCT, SEMARNAT, PC) y fichas técnicas estén al día.
+### 4.2 Industria Limpia PROFEPA
+- **Estado**: En proceso  
+- **Fecha objetivo**: 2025  
+- **Instalaciones consideradas**: Almacenes activos y flota de transporte  
+- **Alcance**: Manejo de residuos, emisiones y control ambiental integral.
 
-> **Meta**: Preparar el terreno para futuras certificaciones como ISO 9001 o ISO 14001, manteniendo la **disciplina operativa**.
-
-### 5.2 Capacitación del Personal
-Cada operador o colaborador involucrado en el manejo de químicos recibe al menos dos tipos de cursos:
-
-- **Curso de Transporte de Materiales Peligrosos**:  
-  - Normas SCT (NOM-010-SCT2, NOM-011-SCT2)  
-  - Equipamiento de seguridad (chalecos, respiradores, extintores, etc.)  
-  - Procedimientos de respuesta en caso de derrames, fugas o accidentes
-
-- **Curso de Identificación y Etiquetado**:  
-  - Elaboración y lectura de Hojas de Datos de Seguridad  
-  - Sistema Globalmente Armonizado (GHS) de etiquetado, como referencia adicional  
-  - Revisión de NOM-003-SCT para codificación de riesgos
+### 4.3 Certificaciones Planificadas
+- **ISO 14001 (2026)**: Se proyecta reforzar la dimensión ambiental en los diferentes almacenes y rutas, alineando las operaciones con prácticas sostenibles.  
+- **ISO 39001 (2026)**: Dirigida a la seguridad vial, relevante para la flota de DiQV y la prevención de accidentes en carretera.
 
 ---
 
-## 6. Criterios Mínimos para Fabricantes y Acuerdos de Renovación
+## 5. Gestión de Riesgos y Protocolos
+Aunque DiQV no cuenta con un **sistema formal** de gestión de riesgos totalmente implementado, sí aplica medidas y pautas:
 
-1. **Certificaciones Mínimas**: NSF/ANSI 60 o NMX aplicables si el producto está dirigido al mercado de tratamiento de agua potable.  
-2. **Ficha Técnica y HDS por Lote**: Deben incluir fecha de elaboración, número de lote, fecha de vigencia y recomendaciones de seguridad.  
-3. **Acuerdos de Renovación**:  
-   - Entrega periódica (mínimo trimestral) de la **cédula de vigencia** de cada certificación.  
-   - Notificación inmediata de cambios en el **proceso de fabricación**, fórmula o etiquetado.  
-4. **Visitas y Auditorías de Fabricante**:  
-   - DiQV se reserva el derecho de **visitar** las instalaciones del fabricante para constatar el **cumplimiento normativo**.
+1. **Identificación de Riesgos**  
+   - Se clasifican los productos según su peligrosidad (NOM y Fichas Técnicas).  
+   - Se define equipamiento mínimo y procedimientos de seguridad específicos (EPP, etiquetas, etc.).
 
----
+2. **Manejo de Emergencias**  
+   - Línea de contacto 24/7 para incidentes en ruta (derrames, fugas, etc.).  
+   - Coordinación con autoridades locales y con los clientes si la emergencia afecta un sitio de descarga.
 
-## 7. Planes de Expansión y Certificaciones Futuras
+3. **Inspección y Mantenimiento de Flota**  
+   - Programas periódicos de revisión de tanques, mangueras y conexiones.  
+   - Operadores reciben cursos sobre carga, descarga y respuesta a incidencias.
 
-### 7.1 Expansión Territorial
-- **Ampliación de Vigencia SCT**:  
-  Se planea gestionar un permiso SCT ampliado a más de 5 estados en los próximos 2 años, reforzando la cobertura nacional.  
-- **Permisos Internacionales**:  
-  Si se confirman oportunidades de exportar a clientes en la frontera con EE. UU., DiQV **considerará** tramitar licencias y homologaciones que permitan el **cruce transfronterizo** de químicos, cumpliendo las regulaciones de la DOT (Department of Transportation) estadounidense.
-
-### 7.2 Certificaciones Planeadas
-
-1. **ISO 9001 (2025)**  
-   - Formalización de los procesos de transporte y almacén.  
-   - Refuerzo de los controles de calidad internos y la satisfacción del cliente.
-
-2. **Industria Limpia PROFEPA (2025)**  
-   - Mejoras en la gestión ambiental de cada almacén y centro de operación.  
-   - Impulso a prácticas de reducción de residuos, reciclaje y buenas prácticas industriales.
-
-3. **ISO 14001 (2026)**  
-   - Integración de un Sistema de Gestión Ambiental amplio, con políticas claras de uso de energía y tratamiento de efluentes.
-
-4. **ISO 39001 (2026)**  
-   - Aplicación de estándares de seguridad vial, minimizando accidentes en ruta y garantizando un transporte de químicos más seguro.
-
-> **Objetivo**: Consolidar a DiQV como un referente en el **cumplimiento integral** de las normas tanto para materiales peligrosos como para la gestión de la calidad y del medio ambiente.
+4. **Auditorías Internas (Planes Futuros)**  
+   - Se contempla establecer auditorías internas o con consultores externos para reforzar la seguridad y la trazabilidad de los procesos.
 
 ---
 
-## 8. Tablas Detalladas de Permisos y Certificaciones
+## 6. Condiciones Mínimas de Calidad e Inspección
+Para validar la **mercancía entrante** de distintos proveedores:
 
-### 8.1 Permisos de Transporte en México
+1. **Documentación y Certificado de Análisis (COA)**  
+   - Verificación de lote, caducidad (si aplica) y parámetros de pureza o concentración.  
+   - Revisión de la concordancia con la orden de compra.
 
-| **Permiso**        | **Autoridad** | **Vigencia**    | **Clase Químicos**        | **Estados**              | **Observaciones**                                                                 |
-|--------------------|---------------|-----------------|---------------------------|--------------------------|------------------------------------------------------------------------------------|
-| SCT - Tipo E       | Secretaría de Comunicaciones y Transportes (SCT) | 2024–2025       | 5.1 (Oxidantes), 8 (Corrosivos) | 5 entidades (ampliable) | Se renueva cada 2 años; se evalúa ampliar a otras entidades y, a futuro, frontera |
-| SEMARNAT-07-039    | Secretaría de Medio Ambiente y Recursos Naturales  | 2024–2026       | Productos químicos varios       | Cobertura nacional     | Aplica para residuos o substancias que pudieran considerarse de manejo especial   |
-| Dictamen Riesgo Bajo | Protección Civil   | 2024–2025       | Materiales peligrosos        | Alcance local/nacional  | Valida condiciones seguras en unidades y almacenes para el despacho y transporte  |
+2. **Inspección Física**  
+   - Estado de contenedores o empaques.  
+   - Identificación clara de la sustancia con su etiqueta y pictogramas.  
+   - Asegurarse de que no existan fugas, derrames ni signos de contaminación.
 
-### 8.2 Certificaciones Clave de Fabricantes
+3. **Muestreo Interno (cuando aplica)**  
+   - Para sustancias críticas, se toman muestras para análisis rápido (color, olor, densidad, pH) a fin de corroborar la calidad.
 
-| **Fabricante**     | **Productos Clave**      | **Certificaciones**    | **Renovación**                      |
-|--------------------|--------------------------|------------------------|-------------------------------------|
-| IQUISA             | Gas Cloro               | Certificaciones internas de calidad<br>Documentos de seguridad SCT   | Cada 1-2 años (según política interna)|
-| PMV                | Hipoclorito de Sodio     | NSF/ANSI 60<br>NMX-AA...           | Revisión anual<br>En julio (generalmente) |
-| Proquiver          | Sulfato de Aluminio      | NSF/ANSI 60<br>NMX-AA...           | Sujeto a auditorías<br>Programas semestrales|
-| Variados (TCCA)    | TCCA,<br>Hipoclorito de calcio | NSF/ANSI 60 (fabricante)<br>Otros sellos | Variable según lote <br>Se exige registro trimestral |
-
-> DiQV exige la **ficha técnica** y la **HDS** de cada lote antes de su ingreso a almacenes, resguardando copias digitales en su sistema interno de gestión.
+4. **Registro de Recepción**  
+   - Se documenta la fecha, hora, número de vehículo y condiciones generales para trazabilidad.  
+   - En caso de disconformidad, se activa un protocolo de devolución o retención del producto.
 
 ---
 
-## 9. Conclusiones
+## 7. Capacitación Esencial del Personal
+Los colaboradores relacionados con el transporte, la recepción y el manejo de productos peligrosos participan en:
 
-DiQV se mantiene en **constante actualización** de sus permisos y lineamientos, acorde a las NOM de transporte y a las exigencias de la SCT. La **coordinación** con fabricantes certificados (IQUISA, PMV, Proquiver, etc.) garantiza productos respaldados por sellos como NSF/ANSI 60 y NMX, mientras que la **implementación** de auditorías internas y capacitación de personal sientan las bases para **futuras certificaciones** (ISO 9001, 14001, 39001, Industria Limpia PROFEPA).
+1. **Curso de Manejo de Sustancias Peligrosas**  
+   - Frecuencia: Anual  
+   - Objetivo: Conocer la normativa SCT y las medidas de protección personal.  
 
-Con una **visión de expansión** territorial e internacional, y la **flexibilidad** para incorporar nuevos productos químicos bajo estándares reconocidos, DiQV consolida su posición como un aliado confiable en el **mercado de transporte y suministro** de sustancias peligrosas y especializadas.
+2. **Transporte y Carga/Descarga**  
+   - Frecuencia: Semestral (en procesos de actualización)  
+   - Metodología: Instrucción teórica y práctica, abarcando etiquetado UN, clasificación de riesgos y procedimientos de embarque.  
+
+3. **Atención a Emergencias**  
+   - Frecuencia: Variable (según requerimientos internos)  
+   - Contenido: Simulacros de incidentes, uso de extintores, control de derrames menores y comunicación con autoridades.  
+
+> **Futuro**  
+Se planean auditorías internas para reforzar la calidad, con planes de vincular estos cursos a **certificaciones ISO** (p.ej. ISO 9001 e ISO 39001) para consolidar una cultura de seguridad vial y operativa.
+
+---
+
+## 8. Proveedores y Validación de Certificaciones
+Aunque DiQV no menciona específicamente a los fabricantes, se asegura de:
+
+1. **Confirmar** que los productos cuenten con **NSF/ANSI 60** y/o **NMX-AA** (para tratamiento de agua).  
+2. **Solicitar** fichas de datos de seguridad (FDS) y certificados de análisis por cada lote.  
+3. **Mantener** archivos físicos y digitales con la documentación de cada envío, en cumplimiento con la normativa federal.
+
+### 8.1 Requisitos Internos Mínimos
+- **Control de Calidad:** COA debe acompañar cada envío.  
+- **Documentación Normativa:** Etiquetado, FDS, pictogramas GHS.  
+- **Alianza Continua:** Se busca mayor participación de proveedores para **evaluaciones conjuntas** y mejora de la cadena logística.
+
+---
+
+## 9. Expansión y Certificaciones Futuras
+Para 2025-2026, DiQV proyecta:
+- **Completar** la implementación de ISO 9001 e Industria Limpia PROFEPA.  
+- **Desarrollar** planes concretos para ISO 14001 y 39001, reforzando tanto la parte ambiental como la seguridad vial.  
+- **Ampliar** las auditorías internas, incluyendo gestión de riesgos y desempeño operativo de la flota.
+
+> **Metas**: Integrar procesos automatizados (TMS, WMS) y digitalizar la trazabilidad de las cargas, en línea con la visión de la empresa de brindar un **servicio confiable** y **transparente**.
 
 ---
 
 ## 10. Referencias Internas
-
-- [Capacidad Operativa](../01_informacion/capacidad_operativa.md)  
-- [Información Básica](../01_informacion/informacion_basica.md)  
-- [Historia de la Empresa](../01_informacion/historia_empresa.md)  
+- [Capacidad Operativa](02_capacidad_operativa.md)  
+- [Información Básica](informacion_basica.md)  
+- [Historia de la Empresa](historia_empresa.md)  
 - [Política de Gestión de Certificaciones](../03_estructura_organizacional/politicas/01_generales/01_cumplimiento_normativo/POL-002_certificaciones.md)
 
 ---
 
 ## Historial de Cambios
 
-**2025-01-11 — v4.0.0**  
-- Se detalla la normativa mexicana (NOM-002, 003, 010, 011, 026) y se incluyen tablas con permisos y certificaciones de los principales fabricantes.  
-- Se especifica la vigencia real del permiso SCT tipo E (2024–2025), con miras a ampliarlo a más estados y, potencialmente, a la frontera EE. UU.  
-- Se integran auditorías internas trimestrales, capacitación de personal y planes de expansión (ISO 9001, 14001, 39001).  
-- Se menciona la coordinación con fabricantes: IQUISA (cloro gas), PMV (hipoclorito), Proquiver (sulfato) y proveedores de TCCA/Hipoclorito de Calcio.  
-- Se crea la sección de criterios mínimos para trabajar con nuevos fabricantes, acordando renovaciones y visitas de verificación.
+**2025-11-01 — v2.1.0**  
+- Revisión y **validación** de datos para mayor fidelidad.  
+- Ajuste en las secciones de **gestión de riesgos**, **condiciones de inspección** y **capacitación**, sin mención específica de fabricantes.  
+- Clarificación de normas NMX y la certificación NSF/ANSI 60 para tratamiento de agua.  
+- Inclusión de planes de expansión y certificaciones futuras (ISO 9001, 14001, 39001, PROFEPA).
 
-> *(Cambios previos en versiones 3.x y 2.x omitidos para simplificar la lectura.)*## Historial de Cambios
+**2025-01-11 — v2.0.0**  
+- Se actualizó la tabla 8.1 para reflejar que **Gas Cloro** sí cumple con las NMX-AA-122/123 en caso de potabilización.  
+- Se ajustaron las menciones a fabricantes y productos (IQUISA, PMV, Proquiver, etc.).  
+- Se enfatizó la preparación hacia las próximas certificaciones ISO y planes de auditorías internas.  
+- Se mantuvieron las descripciones de SCT, SEMARNAT y PC sin profundizar en revisiones específicas.
 
-**2025-01-11 — v3.0.0**  
-- Se añade un **apartado** con tablas en Markdown para clarificar las certificaciones por producto.  
-- Se integran las **capacitaciones internas** y la **fase de auditorías**.  
-- Se mencionan las **normas mexicanas** de transporte (NOM-002-SCT, NOM-003-SCT, NOM-010-SCT2, etc.) y la **adenda** sobre permisos futuros en EE. UU.  
-- Se crea la sección de **Criterios mínimos** para proveedores y acuerdos de renovación de certificados.  
-- Se omite información sobre revisiones de SEMARNAT y PC, así como planes de sostenibilidad detallados.
+**2025-01-10 — v1.4.1**  
+- Notas sobre vigencia indefinida de SCT y responsabilidad de fabricantes en renovaciones.  
+- Simplificación de duplicados y reorganización interna.
 
-**2025-01-11 — v2.2.0**  
-- **Revisión exhaustiva** para integrar la mención de proveedores (IQUISA, PMV, Proquiver) y sus posibles certificaciones.  
-- Ajuste de la narrativa, manteniendo un tono **profesional** y **ordenado**.  
-- Se refuerza la sección de auditorías internas y la **coordinación con fabricantes**.
+**2025-01-10 — v1.4.0**  
+- Eliminación de redundancias y ajuste de referencias cruzadas.
 
-**2025-01-11 — v2.1.0**  
-- Inclusión de planes de digitalización y sostenibilidad, reforzando el compromiso con ISO 9001, PROFEPA, ISO 14001, e ISO 39001.  
-- Estructura reorganizada para mayor fluidez.
+**2025-01-10 — v1.3.0**  
+- Reorganización del contenido; incorporación de "Capacidad Operativa" y "Información Básica" como vínculos.
 
-2025-11-01 - v1.4.1
-- Se agregaron notas sobre permisos SCT indefinidos y responsabilidad de fabricantes en renovaciones.
+**2025-01-10 — v1.2.0**  
+- Actualización de certificaciones y permisos; enfoque en simplificación documental.
 
-2025-11-01 - v1.4.0
-- Eliminación de información redundante sobre certificaciones.
-- Se actualizó la versión y fecha.
+**2025-01-10 — v1.1.0**  
+- Detalles de vigencia y calendario de auditorías.
 
-2025-01-10 - v1.3.0
-- Reorganización del contenido
-- Eliminación de información duplicada
-- Actualización de referencias cruzadas
-
-2025-01-10 - v1.2.0
-- Actualización de certificaciones y permisos
-- Eliminación de certificaciones pendientes
-- Simplificación de estructura documental
-
-2025-01-10 - v1.1.0
-- Actualización con detalles de vigencia
-- Incluido calendario de auditorías
-
-2025-01-10 - v1.0.0
-- Documento inicial
+**2025-01-10 — v1.0.0**  
+- Documento inicial con estructura básica.

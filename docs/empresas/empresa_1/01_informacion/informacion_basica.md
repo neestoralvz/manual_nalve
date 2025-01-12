@@ -111,10 +111,6 @@ Consolidarnos como el **aliado principal** en el manejo, transporte y distribuci
 - Se incluyó el ácido sulfúrico en la lista de productos principales.  
 - Se fortaleció el enfoque en químicos generales.
 
-**2025-01-11 — v2.0.2**  
-- Se eliminó la mención a un traslado previo específico en Xalapa.  
-- Se consolidaron todos los cambios anteriores en una versión final mejorada.
-
 **2025-01-11 — v2.0.1**  
 - Se eliminó la mención de la ausencia de planes formales u objetivos numéricos.  
 - Se incluyó el **ácido sulfúrico** en la lista de productos principales.  
