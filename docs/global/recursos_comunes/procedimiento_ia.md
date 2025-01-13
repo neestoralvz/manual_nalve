@@ -1,66 +1,120 @@
+```yaml
 ---
 título: Procedimiento para Interacción con IA (Cursor)
 fecha_creación: 2025-01-14
-última_actualización: 2025-01-14
-versión: 0.1.0
+última_actualización: 2025-01-28
+versión: 0.2.0
 nivel_acceso: PUBLICO
 ---
+```
 
-# Procedimiento para Interacción con IA (Cursor)
+# **Procedimiento para Interacción con IA (Cursor)**
 
 ## 1. Objetivo
-Definir los lineamientos y pasos que deben seguir el Usuario, **o1**, y la herramienta de IA (**Cursor**) para crear, modificar o revisar archivos de documentación en el repositorio, garantizando consistencia y evitando confusiones o pérdidas de información.
+Definir los lineamientos y pasos para que el **Usuario** y **o1** (IA intermediaria) colaboren con la herramienta **Cursor** (IA que gestiona los archivos en el repositorio). El objetivo es crear, modificar o revisar documentos sin inconsistencias, controlando la versión y asegurando un flujo ordenado de trabajo.
 
 ## 2. Alcance
-- Aplica a toda solicitud relacionada con la creación, edición, lectura o eliminación de archivos de documentación (en cualquier carpeta) dentro del repositorio de Grupo Nalve.
-- Involucra los roles: **Usuario**, **o1** y **Cursor**, y cualquier colaborador que intervenga en la documentación.
+- Aplica a **todas** las solicitudes relacionadas con la creación, edición, lectura o eliminación de archivos de documentación en el repositorio.
+- Involucra a **Usuario**, **o1** y **Cursor**, así como a cualquier colaborador que participe en la documentación.
+- Considera tanto procesos pequeños (correcciones mínimas) como grandes creaciones de archivos o manuales extensos.
 
 ## 3. Roles y Responsabilidades
+
 ### 3.1 Usuario
-- Proporciona la **información principal** y valida los cambios finales en los documentos.  
-- Si desea contenido muy específico, el **Usuario** lo redacta directamente.  
+- **Suministra** la información principal o decisiones de alto nivel (qué documentos crear, qué contenido añadir).  
+- **Valida** los cambios finales, asegurando que reflejen sus intenciones.  
+- Cuando se requiere un contenido muy específico o detallado, el **Usuario** lo redacta directamente (copiando y pegando texto en la conversación).
 
-### 3.2 o1
-- Formula las **instrucciones** a Cursor basadas en la planificación y reflexiones realizadas con el Usuario.  
-- Asegura que Cursor reciba un **contexto suficiente** (ubicación de archivos, partes de texto relevantes, etc.).  
-- Verifica que las modificaciones propuestas por Cursor sean correctas y completas.
+### 3.2 o1 (IA Intermediaria)
+- **Razona** y **reflexiona** sobre los requerimientos del Usuario, asegurando que la solicitud a Cursor sea coherente y bien fundamentada.  
+- **Redacta** las **instrucciones** claras para Cursor, proporcionándole el contexto necesario (ruta de archivos, fragmentos de texto relevantes, referencias a manuales).  
+- **Revisa** que las modificaciones propuestas por Cursor cumplan con los lineamientos y con la estructura definida en el [Manual de Estructura de Documentación](../../manual_estructura_documentacion.md).  
+- **Propone** divisiones de contenido y estrategias para manejar grandes volúmenes de texto (evitando exceder límites de tokens).
 
-### 3.3 Cursor (IA)
-- Ejecuta las acciones de creación, lectura y edición de archivos dentro del repositorio.  
-- Siguiendo las instrucciones de o1, crea placeholders, edita secciones concretas o presenta resúmenes.  
-- Se asume que cada petición de o1 a Cursor es exitosa, salvo que el Usuario indique fallas.
+### 3.3 Cursor (IA que interactúa con el repositorio)
+- **Ejecuta** las acciones de creación, edición, eliminación o lectura de archivos según las instrucciones de o1.  
+- **Confirma** el éxito de cada acción, dando detalles o diffs de los cambios realizados.  
+- **No** es responsable de la coherencia conceptual del contenido, sino de ejecutar las tareas en el repositorio de la forma indicada.  
+- **Asume** que cada petición de o1 es técnicamente posible y se realiza, a menos que el Usuario indique fallas o detecte errores post-ejecución.
 
 ## 4. Flujo de Trabajo
-1. **Planificación** (Usuario + o1)  
-   - Determinan la necesidad de crear o modificar un archivo y qué secciones abordará Cursor.
-2. **Instrucción a Cursor** (o1)  
-   - o1 redacta un mensaje claro, con indicaciones de ubicación, nombre del archivo y contenido deseado.  
-   - Se incluye contexto adicional (porciones de texto) cuando el archivo es extenso o se requiere mayor precisión.
-3. **Ejecución y Confirmación** (Cursor)  
-   - Cursor realiza la acción solicitada y confirma el éxito.  
-   - Si el Usuario detecta errores tras la confirmación, lo notifica y se repite el proceso con las correcciones.
-4. **Revisión Final** (Usuario + o1)  
-   - El Usuario revisa el contenido definitivo.  
-   - o1 comprueba que la estructura y estilo cumplan con los lineamientos.
-5. **Publicación** (Usuario)  
-   - El contenido final permanece en la rama principal (o la que se use como "oficial").
 
-## 5. Mecanismos de Control y Versionado
-- Cada acción de Cursor que suponga un cambio significativo debe reflejarse en el Historial de Cambios correspondiente al documento.  
-- Para peticiones simples (añadir una tabla, corregir un error tipográfico), se puede actualizar la parte Z (parche) de la versión.  
-- El Usuario puede solicitar que o1 redireccione a Cursor para "dividir" el contenido si fuera demasiado extenso, evitando superar límites de tokens.
+1. **Planificación** (Usuario + o1)  
+   - Determinan qué archivo(s) se crearán o modificarán y su objetivo.  
+   - El Usuario provee la información o el texto base a o1.
+
+2. **Instrucción a Cursor** (o1)  
+   - o1 prepara un mensaje claro para Cursor:  
+     - Indica la **ubicación** (ruta en el repositorio)  
+     - El **nombre del archivo** (o archivos)  
+     - El **contenido** a crear o modificar (puede ser placeholders o texto detallado)  
+   - o1 se asegura de incluir referencias a manuales y archivos relevantes.
+
+3. **Ejecución y Confirmación** (Cursor)  
+   - Cursor **realiza** la acción y confirma el éxito, mostrando, en caso necesario, un diff de cambios.  
+   - Si el Usuario detecta algún fallo o inconsistencia, lo indica para corregirlo en una iteración adicional.
+
+4. **Revisión Final** (Usuario + o1)  
+   - El **Usuario** revisa el contenido final para validar que cumple con la intención y la información proporcionada.  
+   - o1 comprueba que la estructura, numeración de versión, encabezados YAML y referencias cumplan con el [Manual de Estructura de Documentación](../../manual_estructura_documentacion.md).
+
+5. **Publicación** (Usuario)  
+   - Cuando el contenido está correcto, el Usuario lo da por **aprobado**.  
+   - Permanece en la rama principal (o la designada como “oficial”) y se incluye en los índices correspondientes.
+
+## 5. Control de Versionado y Documentación
+
+- **Historial de Cambios**: Cada modificación que suponga un cambio sustancial de contenido debe reflejarse en la sección “Historial de Cambios” del documento con la nueva versión y fecha.  
+- **Versionado Semántico** (X.Y.Z):  
+  - **X (Mayor)**: Cambios estructurales o reescrituras completas.  
+  - **Y (Menor)**: Nuevas secciones o funcionalidades sin romper compatibilidad.  
+  - **Z (Parche)**: Correcciones mínimas, ortográficas o de formato.  
+- **Requerimientos de Gran Volumen**:  
+  - o1 puede dividir la creación o edición en pasos, usando múltiples solicitudes a Cursor para evitar exceder límites de tokens.  
+  - El Usuario puede apoyar copiando y pegando manualmente si se trata de textos muy extensos.
 
 ## 6. Ejemplos de Uso
-- **Creación de Archivo**: o1 indica ruta y contenido base, Cursor crea el archivo con su encabezado YAML y secciones vacías (o placeholders).
-- **Modificación de Sección**: o1 proporciona línea o contenido a reemplazar, Cursor aplica el cambio. Se actualiza versión y fecha.
-- **Lectura de Estructura**: o1 pide a Cursor que muestre la estructura del directorio antes de editar o agregar archivos.
+
+1. **Creación de Manual**  
+   - El Usuario expresa la necesidad de un nuevo “Manual X”.  
+   - o1 redacta las instrucciones para Cursor (ruta, nombre, encabezado YAML, secciones base).  
+   - Cursor crea el archivo.  
+   - Se valida y se integra en los índices correspondientes.
+
+2. **Edición de Sección Específica**  
+   - o1 localiza la línea o sección a modificar.  
+   - Proporciona a Cursor el texto exacto a reemplazar y el contenido nuevo.  
+   - Cursor ejecuta y muestra el diff.  
+   - El Usuario confirma o solicita ajustes.
+
+3. **Lectura y Confirmación**  
+   - o1 pide a Cursor una vista previa (contenido parcial o estructura del archivo).  
+   - El Usuario revisa la información.  
+   - Se procede con la edición o se aprueba sin cambios.
+
+4. **Grandes Documentos**  
+   - Si se requiere un documento muy detallado, o1 puede hacer que Cursor cree un placeholder con secciones vacías.  
+   - El Usuario pega manualmente los fragmentos extensos (para evitar exceder límites).  
+   - Cursor finaliza la integración y confirmación.
 
 ## 7. Consideraciones Especiales
-- Cuando el contenido es muy extenso, se recomienda que sea el **Usuario** quien copie y pegue para evitar limitaciones de tokens.  
-- Si se requiere un documento muy detallado (ej. Políticas que requieren la experiencia del Usuario), Cursor puede insertar placeholders y luego el Usuario (o1) completará manualmente.  
+
+- **Coherencia Conceptual**:  
+  - La responsabilidad de la coherencia conceptual y la corrección de la información recae en el Usuario y en o1, no en Cursor.  
+- **Correcciones Posteriores**:  
+  - Si, tras la confirmación, el Usuario detecta inconsistencias, se inician iteraciones adicionales con o1 y Cursor.  
+- **Carpetas y Rutas**:  
+  - Se recomienda mantener la **estructura** definida en el repositorio y referenciar los manuales o archivos de plantillas en `docs/global/recursos_comunes/plantillas/` (o la carpeta elegida) para evitar duplicidades.  
+- **Proyectos Simultáneos**:  
+  - En caso de múltiples ediciones en paralelo, o1 debe dividir las instrucciones en secuencias claras para que Cursor no mezcle cambios de distintos documentos.
 
 ---
 
 ## Historial de Cambios
+- **2025-01-28 – v0.2.0**  
+  - Actualización profunda del procedimiento tras la experiencia de trabajo con Cursor y las nuevas convenciones de documentación.  
+  - Inclusión de lineamientos sobre dividir contenido extenso, versionado semántico y referencias a plantillas globales.  
+  - Mayor claridad en las responsabilidades de o1 y el Usuario.  
+
 - **2025-01-14 – v0.1.0**  
-  Creación inicial del procedimiento de interacción IA, estableciendo funciones de Usuario, o1 y Cursor. 
+  - Creación inicial del procedimiento de interacción IA, con funciones de Usuario, o1 y Cursor.
