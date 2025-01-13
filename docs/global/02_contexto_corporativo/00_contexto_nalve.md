@@ -8,6 +8,8 @@ nivel_acceso: PUBLICO
 
 # Contexto Corporativo Grupo Nalve
 
+https://chatgpt.com/c/67825935-49b8-8002-9eb9-467fb5933307
+
 ## 1. Visión General
 El Grupo Nalve es una entidad corporativa que reúne diversas filiales con actividades complementarias, bajo una administración y servicios compartidos (jurídico, contabilidad, tesorería, RRHH, TI y analítica). 
 
