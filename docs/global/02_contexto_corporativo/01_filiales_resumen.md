@@ -2,74 +2,117 @@
 ---
 título: Filiales - Resumen de Operaciones
 fecha_creación: 2025-01-15
-última_actualización: 2025-01-15
-versión: 0.2.0
+última_actualización: 2025-01-22
+versión: 0.5.0
 nivel_acceso: PUBLICO
 ---
 ```
 # Filiales - Resumen de Operaciones
 
 ## 1. Introducción
-El Grupo Nalve está conformado por diversas filiales, cada una con un enfoque y actividad particular, pero unidas por sinergias clave (recursos humanos centralizados, administración y contabilidad compartidas, desarrollo tecnológico, etc.). A continuación se ofrece un panorama de cada empresa, resaltando su giro principal y la relación que guarda con el resto del grupo.
+El **Grupo Nalve** está conformado por diversas filiales con enfoques y giros distintos. A pesar de sus diferencias, todas se apoyan en **servicios centrales** (administración, jurídico, RRHH, analítica/TI), así como en la base logística que proviene en gran medida de **DiQV**.
+
+Este documento ofrece un panorama **cronológico y operativo** de cada filial, enfatizando sus principales actividades, su origen y la forma en que colaboran entre sí.  
+
+> **Nota**: Las particularidades de cada filial en cuanto a **políticas, lineamientos internos o manuales** se detallan en la carpeta correspondiente a políticas o en los documentos internos de cada empresa.
+
+---
 
 ## 2. Lista de Filiales
 
 ### 2.1 DiQV (Distribuidora de Químicos de Veracruz)
-- **Actividad principal**: Distribución de químicos (especialmente para tratamiento de agua), transporte especializado, venta a gobiernos municipales y organismos de agua potable.  
-- **Origen**: Fue la **primera** empresa del Grupo Nalve y la que dio pie al crecimiento corporativo.  
-- **Enfoque clave**:
-  - Abastecimiento de hipoclorito de sodio, sulfato de aluminio, ácido sulfúrico y otros químicos a clientes institucionales e industriales.  
-  - Servicio de transporte en pipas y tractocamiones certificados para materiales peligrosos.  
-- **Relación con el Grupo**:
-  - Sirve de **base** para la estructura de transporte y logística, aprovechando la experiencia en manejo de químicos y lazos con fabricantes.
+- **Actividad principal**  
+  Distribución de químicos (enfocados al tratamiento de agua), venta a gobiernos municipales, organismos de agua potable e instituciones.  
+  Servicio de transporte especializado en materiales peligrosos con pipas y tractocamiones certificados.
+
+- **Origen**  
+  Fundada en 2015, es la **primera** empresa del Grupo Nalve. Ha servido de base para la expansión logística y comercial del grupo.
+
+- **Almacenes**  
+  - **Paso de Ovejas**: Evita traslados innecesarios a Xalapa (cerca de la planta de sulfato de aluminio).  
+  - **Cosamaloapan** (c. 2018): Punto estratégico para distribuir hipoclorito de sodio al sur de Veracruz.  
+  - Alianza “Tampico” (operada junto con un competidor local para gas cloro).
+
+---
 
 ### 2.2 Ninu
-- **Actividad principal**: Comercio electrónico de productos químicos para limpieza, enfocados en uso diario (hogar, negocio pequeño, etc.).  
-- **Diferenciador**:
-  - Enfoque en **canales en línea**, venta directa a consumidor y pequeñas empresas.  
-- **Relación con el Grupo**:
-  - Aprovecha parte de la producción de NOAV (ver sección 2.3) y la infraestructura logística de DiQV.  
-  - Comparte el soporte administrativo, jurídico y de RRHH centralizado de Nalve.
+- **Actividad principal**  
+  Comercio electrónico de productos de limpieza de uso diario (hogar, microempresas).  
+  Creció durante la pandemia con la alta demanda de desinfectantes y gel antibacterial.
+
+- **Enfoque**  
+  - Centrado en **canales digitales** (tienda en línea, redes sociales).  
+  - Diferenciación a través de rapidez en la entrega y variedad de productos.
+
+- **Relación con el Grupo**  
+  Depende de la **manufactura** de NOAV y de la **logística** de DiQV para entregas.  
+  Comparte servicios administrativos, jurídicos y de RRHH.
+
+---
 
 ### 2.3 NOAV
-- **Actividad principal**: **Fábrica** productora de ciertos químicos y productos de limpieza comercializados por Ninu.  
-- **Capacidades**:
-  - Formulación y manufactura de limpiadores, desinfectantes y otros insumos relacionados.  
-- **Relación con el Grupo**:
-  - Abastece a Ninu y también puede apoyar a DiQV con producción específica.  
-  - Comparte sinergias de contabilidad y gestión de personal con el corporativo.
+- **Actividad principal**  
+  Fábrica productora de diversos insumos de limpieza (detergentes, gel antibacterial, etc.), muchos de los cuales Ninu comercializa en sus plataformas.
+
+- **Datos Destacados**  
+  - Separada de Ninu para diferenciar la manufactura de la parte comercial.  
+  - Basada en la experiencia previa del fundador en formulaciones.
+
+- **Relación con el Grupo**  
+  Suministra productos a Ninu y, en menor medida, a DiQV.  
+  Beneficia la contabilidad y el reclutamiento centralizado del corporativo.
+
+---
 
 ### 2.4 Ampare
-- **Actividad principal**: Es un **centro cultural y restaurante**, uniendo gastronomía y eventos culturales en un mismo espacio.  
-- **Rol dentro del Grupo**:
-  - Pertenece al sector de entretenimiento/servicios dentro de Nalve.  
-  - Difícilmente se vincula con la distribución de químicos, pero comparte los servicios corporativos (jurídico, administración, etc.).  
-- **Futuro**: Se planea consolidar su oferta cultural e incluso **expandir** la marca Ampare a otras ubicaciones o ramas de negocio relacionadas con la hospitalidad.
+- **Actividad principal**  
+  Centro cultural y restaurante, que combina gastronomía y eventos en Xalapa.
+
+- **Origen**  
+  Surge tras la compra de una casa colonial y con la idea de reorientar los antiguos proyectos de bar/restaurante que cerraron durante la pandemia.
+
+- **Rol dentro del Grupo**  
+  Focalizado en el entretenimiento/gastronomía; recibe asesoría legal, contable y de RRHH del corporativo.  
+  Planes de expansión para replicar la marca en otras ubicaciones.
+
+---
 
 ### 2.5 MALEM
-- **Actividad principal**: Opera como **controladora** de negocios de entretenimiento dentro del grupo.  
-- **Enfoque actual**: Coordina de manera directa la operación de Ampare, aunque en el futuro se prevé integrar más proyectos de entretenimiento.  
-- **Relación con el Grupo**:
-  - Recibe soporte del corporativo en temas legales y financieros.  
-  - Aspira a crecer en el sector del ocio y la cultura, manteniendo la filosofía de excelencia y seguridad que ha caracterizado a Nalve en otras áreas.
+- **Actividad principal**  
+  Holding o controladora de proyectos de ocio y entretenimiento, incluyendo la operación y desarrollo de Ampare.
+
+- **Enfoque actual**  
+  Coordina la visión de crecimiento en el rubro cultural/gastronómico.  
+  Planea integrar futuros proyectos de entretenimiento en la región.
+
+- **Relación con el Grupo**  
+  Usa la infraestructura financiera y jurídica; actúa como cabeza del segmento recreativo en Nalve.
+
+---
 
 ## 3. Relación entre Filiales
+
 1. **Compartición de Servicios**  
-   - Las gerencias corporativas (Administración, Jurídico, RRHH, Analítica/TI) facilitan la **optimización de costos** y estandarizan procesos.  
-   - La centralización contable y tesorería permite un mejor flujo de caja global.
+   - El corporativo (Administración, Jurídico, RRHH, Analítica/TI) proporciona una base común para contabilidad, reclutamiento, soporte legal y desarrollo tecnológico.  
+   - Se reduce la duplicidad de esfuerzos y se centraliza la toma de decisiones financieras y administrativas.
 
 2. **Sinergias Productivas**  
-   - DiQV se beneficia de los productos fabricados en NOAV (y en menor medida, Ninu), mientras que NOAV y Ninu aprovechan la logística experta de DiQV.  
-   - Ampare y MALEM, aunque en un sector distinto, reciben apoyo en contabilidad, RRHH y asesoría legal.
+   - **NOAV** abastece a **Ninu**; **DiQV** pone su experiencia en transporte para la entrega de químicos.  
+   - Ampare y MALEM se benefician de la gestión centralizada de nóminas, permisos y asesoría, liberándose para centrarse en su giro (gastronomía/entretenimiento).
 
-3. **Expansión y Crecimiento**  
-   - Parte de los planes futuros involucran la **digitalización** de ventas (Ninu), la **intensificación de logística** (DiQV), y la **consolidación cultural/gastronómica** (Ampare, MALEM).  
-   - La visión global de Nalve posibilita que las ganancias o aprendizajes de una filial apoyen la expansión de otra.
+3. **Planes y Crecimiento**  
+   - **DiQV**: Busca ampliar su cobertura logística fuera de Veracruz.  
+   - **Ninu**: Piensa reforzar su plataforma digital y la venta en línea.  
+   - **NOAV**: Podría aumentar su línea de productos y escalar la manufactura.  
+   - **Ampare/MALEM**: Consolidar la marca cultural y expandirla en otros mercados.  
+   - En general, los beneficios y aprendizajes de cada filial sostienen el desarrollo del resto.
 
 ---
 
 ## Historial de Cambios
-- **2025-01-15 — v0.2.0**  
-  - Incorporada descripción detallada de cada filial (DiQV, Ninu, NOAV, Ampare, MALEM).  
-  - Añadida relación de sinergias y planes de expansión.  
-  - Este contenido fue compilado por **o1** a partir de la información proporcionada por el Usuario en la conversación previa.
+- **2025-01-22 — v0.5.0**  
+  - Eliminadas referencias directas a políticas en cada filial para mantener un enfoque más general.  
+  - Incluidos detalles cronológicos (inicios de filiales) y objetivos de expansión sin profundizar en lineamientos internos.  
+  - Ajustada la estructura para una lectura más fluida y coherente.
+
+---
