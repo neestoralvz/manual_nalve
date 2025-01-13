@@ -1,14 +1,12 @@
 ---
 título: Contexto Corporativo Nalve
 fecha_creación: 2025-01-14
-última_actualización: 2025-01-14
-versión: 0.1.0
+última_actualización: 2025-01-23
+versión: 0.2.0
 nivel_acceso: PUBLICO
 ---
 
 # Contexto Corporativo Grupo Nalve
-
-https://chatgpt.com/c/67825935-49b8-8002-9eb9-467fb5933307
 
 ## 1. Visión General
 El Grupo Nalve es una entidad corporativa que reúne diversas filiales con actividades complementarias, bajo una administración y servicios compartidos (jurídico, contabilidad, tesorería, RRHH, TI y analítica). 
@@ -44,8 +42,19 @@ Grupo Nalve surge de la expansión de DiQV, empresa pionera que, al diversificar
 ## 4. Gestión Documental
 Este archivo servirá como referencia inicial para **todos** los proyectos y documentos que requieran entender la estructura del grupo y su contexto.
 
+## 5. Documentos Relacionados
+- [Manual Corporativo Nalve](../manual_corporativo_nalve.md)
+- [Filiales - Resumen](01_filiales_resumen.md)
+- [Departamentos Corporativos](02_departamentos_corporativos.md)
+- [Historia Nalve](03_historia_nalve.md)
+- [Cultura y Valores](05_cultura_valores.md)
+
 ---
 
 ## Historial de Cambios
-- 2025-01-14 — v0.1.0  
+- **2025-01-23 — v0.2.0**
+  - Eliminadas referencias externas no deseadas
+  - Agregada sección de Documentos Relacionados
+  - Actualizada estructura para mayor coherencia con otros documentos
+- **2025-01-14 — v0.1.0**  
   - Creación inicial del documento con contexto base de Grupo Nalve. 

@@ -1,14 +1,12 @@
-```yaml
 ---
 título: KPI e Indicadores de Desempeño
 fecha_creación: 2025-01-21
-última_actualización: 2025-01-21
-versión: 0.1.0
+última_actualización: 2025-01-23
+versión: 0.2.0
 nivel_acceso: PUBLICO
 ---
-```
 
-# KPI e Indicadores de Desempeño (Grupo Nalve)
+# KPI e Indicadores de Desempeño
 
 ## 1. Introducción
 Los **KPI (Key Performance Indicators)** o Indicadores Clave de Desempeño son métricas esenciales para **medir**, **monitorear** y **gestionar** el avance de las estrategias y objetivos en cada filial del Grupo Nalve. Aunque actualmente no se cuenta con un sistema formal de KPIs, la intención es aprovechar la estructura corporativa y los planes de expansión para establecer un marco de indicadores que permita una evaluación continua y la toma de decisiones informadas.
@@ -96,9 +94,22 @@ Los KPI son un **pilar fundamental** para el crecimiento ordenado del Grupo Nalv
 
 ---
 
+## Documentos Relacionados
+- [Manual Corporativo Nalve](../manual_corporativo_nalve.md)
+- [Contexto Nalve](00_contexto_nalve.md)
+- [Filiales - Resumen](01_filiales_resumen.md)
+- [Departamentos Corporativos](02_departamentos_corporativos.md)
+- [Estrategia Comercial](06_estrategia_comercial.md)
+- [Esquema Financiero](07_esquema_financiero.md)
+- [Sostenibilidad y RS](09_sostenibilidad_rs.md)
+
+---
+
 ## Historial de Cambios
-- **2025-01-21 – v0.1.0**  
-  - Creación inicial del documento para definir la estrategia de KPIs en el Grupo Nalve.  
-  - Se plantean ejes de medición y un plan de implementación preliminar.
+- **2025-01-23 — v0.2.0**
+  - Agregada sección de Documentos Relacionados
+  - Actualizada estructura para mayor coherencia con otros documentos
+- **2025-01-21 — v0.1.0**
+  - Creación inicial del documento
 
 ---

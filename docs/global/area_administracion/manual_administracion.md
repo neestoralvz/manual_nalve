@@ -1,8 +1,8 @@
 ---
 título: Manual de Administración (Contabilidad y Tesorería)
 fecha_creación: 2025-01-26
-última_actualización: 2025-01-27
-versión: 0.2.0
+última_actualización: 2025-01-29
+versión: 1.0.0
 nivel_acceso: PUBLICO
 ---
 
@@ -22,6 +22,8 @@ Este manual complementa el Manual Corporativo Nalve, profundizando en los aspect
   - `docs/global/area_administracion/01_procedimiento_reportes_financieros.md`
   - `docs/global/area_administracion/02_niveles_endeudamiento_limites.md`
   - `docs/global/area_administracion/03_conciliacion_bancaria_manejo_cuentas.md`
+  - `docs/global/area_administracion/04_manuales_uso_erp_tesoreria.md`
+  - `docs/global/area_administracion/05_plan_auditorias_financieras.md`
 
 ## 2. Estructura y Roles
 
@@ -130,10 +132,83 @@ Uso de Cursor según `docs/global/recursos_comunes/procedimiento_ia.md`:
 2. Actualización de plantillas financieras.
 3. Análisis de tendencias y proyecciones.
 
+## 7. Integración Operativa
+
+### 7.1 Flujo de Procesos Administrativos
+El área administrativa opera de manera integrada a través de cinco procedimientos clave que se retroalimentan:
+
+1. **Reportes Financieros** (`01_procedimiento_reportes_financieros.md`):
+   - Base para la toma de decisiones financieras
+   - Alimenta el monitoreo de niveles de endeudamiento
+   - Proporciona insumos para auditorías
+   - Se genera a través del ERP
+
+2. **Control de Endeudamiento** (`02_niveles_endeudamiento_limites.md`):
+   - Establece límites basados en reportes financieros
+   - Se monitorea en conciliaciones bancarias
+   - Sujeto a revisión en auditorías
+   - Registrado y controlado vía ERP
+
+3. **Gestión Bancaria** (`03_conciliacion_bancaria_manejo_cuentas.md`):
+   - Valida la exactitud de reportes financieros
+   - Monitorea cumplimiento de límites de deuda
+   - Proporciona evidencia para auditorías
+   - Se ejecuta mediante el ERP
+
+4. **Sistema ERP** (`04_manuales_uso_erp_tesoreria.md`):
+   - Plataforma central para todos los procesos
+   - Automatiza reportes y conciliaciones
+   - Integra controles de endeudamiento
+   - Facilita procesos de auditoría
+
+5. **Auditorías** (`05_plan_auditorias_financieras.md`):
+   - Verifica todos los procesos anteriores
+   - Valida cumplimiento de políticas
+   - Retroalimenta mejoras al sistema
+   - Utiliza información del ERP
+
+### 7.2 Alineación con Manual Corporativo
+Cada procedimiento implementa aspectos específicos del Manual Corporativo:
+
+1. **Transparencia Financiera**:
+   - Reportes estandarizados y auditables
+   - Trazabilidad en ERP
+   - Controles duales en operaciones
+
+2. **Gestión Prudente**:
+   - Límites de endeudamiento conservadores
+   - Fondos de emergencia
+   - Proyecciones y alertas tempranas
+
+3. **Control Interno**:
+   - Plan de auditorías integral
+   - Segregación de funciones en ERP
+   - Monitoreo continuo de operaciones
+
+### 7.3 Ciclo de Mejora Continua
+1. **Monitoreo**:
+   - Reportes diarios/mensuales
+   - Alertas automáticas
+   - Indicadores de desempeño
+
+2. **Evaluación**:
+   - Auditorías programadas
+   - Revisión de desviaciones
+   - Análisis de tendencias
+
+3. **Ajuste**:
+   - Actualización de políticas
+   - Mejora de controles
+   - Optimización de procesos
+
 ## Historial de Cambios
+- **2025-01-29 — v1.0.0**
+  - Adición del capítulo de Integración Operativa
+  - Actualización de referencias a procedimientos 01-05
+  - Mejora en la documentación de interacciones entre procesos
 - **2025-01-27 — v0.2.0**
-  - Alineación con Manual Corporativo y nuevo Índice de Administración.
-  - Integración de referencias a procedimientos específicos.
-  - Actualización de políticas financieras y roles.
+  - Alineación con Manual Corporativo y nuevo Índice de Administración
+  - Integración de referencias a procedimientos específicos
+  - Actualización de políticas financieras y roles
 - **2025-01-26 — v0.1.0**
-  - Creación inicial del Manual de Administración.
+  - Creación inicial del Manual de Administración

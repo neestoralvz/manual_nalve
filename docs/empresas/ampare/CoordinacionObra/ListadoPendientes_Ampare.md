@@ -1,16 +1,17 @@
 ---
-título: Listado de Pendientes – Proyecto “Ampare”
-versión: 1.1
+título: Listado de Pendientes – Proyecto "Ampare"
+versión: 1.2
 fecha: 2025-01-15
 autor: [Nombre del responsable]
 ---
 
 # 1. DATOS GENERALES
-Este documento consolida las tareas pendientes en el proyecto “Ampare”, clasificadas por áreas (Parte de Abajo y Parte de Arriba).
+Este documento consolida las tareas pendientes en el proyecto "Ampare", clasificadas por áreas y categorías.
 
 ## 2. HISTORIAL DE REVISIONES
 | Versión | Fecha       | Descripción                                 | Autor                  |
 |---------|------------|---------------------------------------------|------------------------|
+| 1.2     | 2025-01-15 | Fusión con ListadoPendientes_Detallado.md  | [Nombre del responsable] |
 | 1.1     | 2025-01-15 | Actualización de fechas límite y estado de mesas | [Nombre del responsable] |
 | 1.0     | 2025-01-14 | Creación inicial de listado de pendientes   | [Nombre del responsable] |
 
@@ -21,20 +22,18 @@ Este documento consolida las tareas pendientes en el proyecto “Ampare”, clas
    - Pendiente: Definir dimensiones y altura.  
    - Responsable: Emmanuel Sánchez
    - Fecha Límite: 2025-02-28
-2. **Sillas**  
-   - Pendiente: Confirmar modelo y número de unidades.  
-   - Responsable: Gustavo Martínez Nalve  
+   - Detalles adicionales:
+     - Definir diseño y material
+     - Considerar transmisión en vivo y pantallas para zonas de menor visibilidad
+
+2. **Barra de la Cafetería**
+   - Pendiente: Revisión de medidas (PDF vs. contrato)
+   - Responsable: Emmanuel Sánchez y Carpintero
    - Fecha Límite: 2025-02-15
-3. **Plantas de la Fuente (colgantes)**  
-   - Pendiente: Seleccionar variedad de plantas y método de instalación.  
-   - Responsable: Emmanuel Sánchez
-   - Fecha Límite: 2025-02-28
-4. **Iluminación**  
-   - Pendiente: Determinar luminarias y ubicación.  
-   - Fecha Límite: 2025-02-15
-5. **Luces de Booths**  
-   - Pendiente: Ver tipo de luz (LED, cálida) y grado de iluminación.
-   - Fecha Límite: 2025-02-15
+   - Detalles adicionales:
+     - Verificar ubicación de tarja
+     - Definir acomodo de cafetera
+     - Ver detalles en: `DisenoArquitectonico/Barra.md`
 
 ## 3.2 Parte de Arriba
 1. **Contrabarra**  
@@ -70,6 +69,70 @@ Este documento consolida las tareas pendientes en el proyecto “Ampare”, clas
 7. **Marcos para Espejos**  
    - Pendiente: Seleccionar diseños y ubicar sobre la banca o cerca de la puerta.
    - Responsable: Emmanuel Sánchez
+   - Fecha Límite: 2025-02-28
+
+## 3.3 Aspectos Arquitectónicos (Emmanuel)
+1. **Planos y Diagramas**
+   - Planos de muebles e interiores
+   - Diagramas de lámparas y luces
+   - Diseño de arcos de espejo
+   - Diseño de fuente y acabados
+   - Fecha Límite: 2025-02-28
+
+2. **Diseños Pendientes**
+   - Barra y contrabarra planta alta
+   - Escenarios (abajo y arriba)
+   - Vegetación e iluminación terraza
+   - Caja planta baja
+   - Fecha Límite: 2025-02-28
+
+## 3.4 Tapicería (Jorge)
+1. **Respaldos**
+   - Medidas irregulares del respaldo del fondo
+   - Cajones para respaldos con iluminación
+   - Luces en booths
+   - Fecha Límite: 2025-02-15
+
+## 3.5 Instalaciones
+1. **Electricidad**
+   - Limpieza de instalación (cables y canaletas)
+   - Lámparas de emergencia
+   - Fecha Límite: 2025-02-15
+
+2. **Fontanería**
+   - Cambio de tubería para boiler
+   - Llave de paso para cocina
+   - Fecha Límite: 2025-02-15
+
+## 3.6 Cocina
+1. **Organización**
+   - Ordenar y colocar anaqueles
+   - Realizar croquis de disposición
+   - Inventario de equipos
+   - Lista de compras (ollas, utensilios)
+   - Fecha Límite: 2025-02-28
+
+2. **Documentación**
+   - Manual de operación
+   - Revisión y mantenimiento de equipos
+   - Fecha Límite: 2025-02-28
+
+## 3.7 Sonido
+1. **Instalaciones**
+   - Instalación PA planta baja
+   - Altavoces en planta baja
+   - Base para bocina (escenario PB)
+   - Fecha Límite: 2025-02-28
+
+## 3.8 Marketing y Estrategia
+1. **Imagen y Marca**
+   - Merchandising (productos del restaurante)
+   - Diseño de marca/imagen
+   - Estrategia de inauguración
+   - Fecha Límite: 2025-03-15
+
+2. **Logística**
+   - Definir área de carga y descarga
    - Fecha Límite: 2025-02-28
 
 # 4. SEGUIMIENTO

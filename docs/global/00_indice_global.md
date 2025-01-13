@@ -1,38 +1,43 @@
 ---
 título: Índice de Recursos Globales
 fecha_creación: 2025-01-11
-última_actualización: 2025-01-11
-versión: 1.0.0
+última_actualización: 2025-01-13
+versión: 1.0.1
 ---
 
 # Índice de Recursos Globales
+
+## Documentación Principal
+- [Manual Corporativo Nalve](manual_corporativo_nalve.md)
+- [Lineamientos Generales](01_lineamientos_generales/00_indice_lineamientos.md)
+- [Contexto Corporativo](02_contexto_corporativo/)
+- [Referencias Legales Globales](03_referencias_legales_globales/)
+
+## Áreas Departamentales
+- [Área de Administración](area_administracion/00_indice_administracion.md)
+- [Área de RRHH](area_rrhh/00_indice_rrhh.md)
 
 ## Políticas Generales
 Esta sección contiene políticas y directrices que aplican a todas las empresas:
 
 - [Lineamientos Generales](01_lineamientos_generales/00_indice_lineamientos.md)
-- Políticas de cumplimiento normativo
-- Políticas de calidad
-- Políticas de seguridad
-- Políticas ambientales
+- [Políticas Generales](politicas_generales/)
 
 ## Recursos Comunes
 Recursos compartidos entre todas las empresas:
 
 ### Plantillas
-- Formatos estándar de documentación
-- Plantillas de presentaciones
-- Formatos de reportes
+#### Administración
+- [Conciliación Bancaria](recursos_comunes/plantillas/administracion/conciliacion_bancaria.md)
+- [Proyección de Cashflow](recursos_comunes/plantillas/administracion/proyeccion_cashflow.md)
+- [Límites de Endeudamiento](recursos_comunes/plantillas/administracion/limites_endeudamiento.md)
+- [Estado de Resultados](recursos_comunes/plantillas/administracion/estado_resultados.md)
 
-### Guías y Manuales
-- Manuales de procedimientos generales
-- Guías de mejores prácticas
-- Documentación técnica común
+#### RRHH
+- [Evaluación de Desempeño](recursos_comunes/plantillas/rrhh/evaluacion_desempeno.md)
 
-### Material de Referencia
-- Normativas y estándares aplicables
-- Referencias técnicas
-- Glosario general
+### Procedimientos
+- [Procedimiento IA](recursos_comunes/procedimiento_ia.md)
 
 ## Cómo Usar esta Sección
 
@@ -47,5 +52,9 @@ Recursos compartidos entre todas las empresas:
 - Mantener registro de cambios en cada documento
 
 ## Historial de Cambios
+- [2025-01-13] - v1.0.1
+  - Actualización de estructura
+  - Agregados enlaces a áreas departamentales y plantillas
+  - Incluido Manual Corporativo
 - [2025-01-11] - v1.0.0
   - Creación inicial del índice global

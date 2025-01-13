@@ -2,10 +2,11 @@
 título: Política de Confidencialidad y Protección de Datos
 código: POL-CPD-01
 fecha_creación: 2025-01-12
-última_actualización: 2025-01-12
-versión: 0.1.0
-estado: borrador
+última_actualización: 2025-01-23
+versión: 0.2.0
+estado: en_revision
 aprobado_por: Dirección de Cumplimiento Normativo
+nivel_acceso: PUBLICO
 ---
 
 # Política de Confidencialidad y Protección de Datos
@@ -65,13 +66,23 @@ Las excepciones deben ser:
 - Revisadas periódicamente
 
 ## 8. Referencias
-- Regulaciones de Protección de Datos aplicables
-- Estándares ISO 27001
-- Políticas relacionadas del Grupo Nalve
+- [Manual Corporativo Nalve](../manual_corporativo_nalve.md)
+- [Manual de TI](../area_administracion/manual_ti.md)
+- [Política de Seguridad Informática](05_seguridad_informatica_sistemas.md)
+- [Lineamientos de Aprobación de Políticas](lineamientos_aprobacion_politicas.md)
+
+## 9. Documentos Relacionados
+- [Contexto Corporativo](../02_contexto_corporativo/00_contexto_nalve.md)
+- [Estrategia Comercial](../02_contexto_corporativo/06_estrategia_comercial.md)
+- [KPIs e Indicadores](../02_contexto_corporativo/10_kpis_indicadores.md)
 
 ---
 
 ## Historial de Cambios
+- **2025-01-23 — v0.2.0**
+  - Actualización de estructura y formato
+  - Agregadas secciones de Referencias y Documentos Relacionados
+  - Estado actualizado a "en_revision"
 - **2025-01-12 — v0.1.0**
   - Creación inicial del documento
   - Definición de estructura base y contenido preliminar 

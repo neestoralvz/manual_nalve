@@ -1,24 +1,33 @@
 ---
 título: Manual de Uso del ERP en Tesorería
 fecha_creación: 2025-01-27
-última_actualización: 2025-01-27
-versión: 0.1.0
+última_actualización: 2025-01-29
+versión: 0.1.3
 nivel_acceso: PUBLICO
 ---
 
 # Manual de Uso del ERP en Tesorería
 
 ## 1. Introducción
-Este manual detalla la operación del módulo de Tesorería en el ERP corporativo, alineado con los procedimientos descritos en el [Manual de Administración](../manual_administracion.md) y el [procedimiento de reportes financieros](./01_procedimiento_reportes_financieros.md).
+Este manual detalla la operación del módulo de Tesorería en el ERP corporativo, en concordancia con:
+- [Manual de Administración](manual_administracion.md)
+- Manual Corporativo Nalve (control y transparencia financiera)
+- [Esquema Financiero](07_esquema_financiero.md)
 
 ### 1.1 Objetivo
-Proporcionar una guía paso a paso para el uso eficiente del ERP en operaciones de tesorería, asegurando la correcta generación de reportes y control de operaciones bancarias.
+Proporcionar una guía paso a paso para el uso eficiente del ERP en operaciones de tesorería, asegurando la correcta generación de reportes y control de operaciones bancarias, en cumplimiento con las políticas de transparencia y control del Manual Corporativo.
 
 ### 1.2 Alcance
 - Módulos de Tesorería y Bancos
 - Generación de reportes financieros
 - Control de accesos y autorizaciones
 - Integración con conciliación bancaria
+
+### 1.3 Referencias
+- [Procedimiento de Reportes Financieros](01_procedimiento_reportes_financieros.md)
+- [Conciliación Bancaria y Manejo de Cuentas](03_conciliacion_bancaria_manejo_cuentas.md)
+- [Plan de Auditorías Financieras](05_plan_auditorias_financieras.md)
+- `docs/global/recursos_comunes/procedimiento_ia.md`
 
 ## 2. Módulos Principales
 
@@ -80,9 +89,13 @@ Proporcionar una guía paso a paso para el uso eficiente del ERP en operaciones 
    - Ejecutar generación
 
 2. **Formatos**:
-   - Plantillas predefinidas (ver `docs/global/recursos_comunes/plantillas/administracion/balance_general.xlsx` y `docs/global/recursos_comunes/plantillas/administracion/estado_resultados.xlsx`)
-   - Exportación a Excel
-   - Envío programado
+   > **Nota**: Utilizar las plantillas oficiales:
+   > - Balance General:
+   >   - Markdown: `docs/global/recursos_comunes/plantillas/administracion/balance_general.md`
+   >   - Excel: `docs/global/recursos_comunes/plantillas/administracion/balance_general.xlsx`
+   > - Estado de Resultados:
+   >   - Markdown: `docs/global/recursos_comunes/plantillas/administracion/estado_resultados.md`
+   >   - Excel: `docs/global/recursos_comunes/plantillas/administracion/estado_resultados.xlsx`
 
 ### 4.2 Alertas y Monitoreo
 1. **Configuración**:
@@ -132,7 +145,35 @@ Proporcionar una guía paso a paso para el uso eficiente del ERP en operaciones 
 - Guías rápidas por módulo
 - Videos de capacitación
 
+## 7. Integración con IA
+
+### 7.1 Funcionalidades Automatizadas
+1. **Reportes Predefinidos**:
+   - Generación automática según calendario
+   - Validación de consistencia
+   - Detección de anomalías
+
+2. **Actualización de Plantillas**:
+   - Sincronización con formatos oficiales
+   - Control de versiones
+   - Registro de cambios
+
+### 7.2 Análisis Predictivo
+1. **Tendencias**:
+   - Patrones de flujo de efectivo
+   - Proyecciones de liquidez
+   - Alertas tempranas
+
+2. **Recomendaciones**:
+   - Optimización de saldos
+   - Gestión de inversiones
+   - Control de riesgos
+
 ## Historial de Cambios
+- **2025-01-29 — v0.1.3**
+  - Adición de sección de Integración con IA
+  - Actualización de referencias al Manual Corporativo y Esquema Financiero
+  - Mejora en la documentación de plantillas oficiales
 - **2025-01-27 — v0.1.2**
   - Actualización de rutas de plantillas a `recursos_comunes/plantillas/administracion/`
 - **2025-01-27 — v0.1.1**

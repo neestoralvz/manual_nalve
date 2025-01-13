@@ -2,10 +2,11 @@
 título: Política de Cumplimiento Normativo y Ética
 código: POL-CNE-02
 fecha_creación: 2025-01-12
-última_actualización: 2025-01-12
-versión: 0.1.0
-estado: borrador
-aprobado_por: Dirección General
+última_actualización: 2025-01-23
+versión: 0.2.0
+estado: en_revision
+aprobado_por: Dirección de Cumplimiento Normativo
+nivel_acceso: PUBLICO
 ---
 
 # Política de Cumplimiento Normativo y Ética
@@ -65,14 +66,23 @@ Esta política aplica a:
 - Debe ser revisada periódicamente
 
 ## 8. Referencias
-- Código de Ética del Grupo Nalve
-- Legislación anticorrupción aplicable
-- Políticas internas relacionadas
-- Estándares internacionales de compliance
+- [Manual Corporativo Nalve](../manual_corporativo_nalve.md)
+- [Referencias Legales Globales](../03_referencias_legales_globales/01_marco_normativo.md)
+- [Política de Confidencialidad](01_confidencialidad_proteccion_datos.md)
+- [Lineamientos de Aprobación de Políticas](lineamientos_aprobacion_politicas.md)
+
+## 9. Documentos Relacionados
+- [Contexto Corporativo](../02_contexto_corporativo/00_contexto_nalve.md)
+- [Cultura y Valores](../02_contexto_corporativo/05_cultura_valores.md)
+- [Sostenibilidad y RS](../02_contexto_corporativo/09_sostenibilidad_rs.md)
 
 ---
 
 ## Historial de Cambios
+- **2025-01-23 — v0.2.0**
+  - Actualización de estructura y formato
+  - Agregadas secciones de Referencias y Documentos Relacionados
+  - Estado actualizado a "en_revision"
 - **2025-01-12 — v0.1.0**
   - Creación inicial del documento
   - Definición de estructura base y contenido preliminar 

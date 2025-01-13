@@ -1,12 +1,12 @@
 ---
 título: Coordinación del Proyecto de Apertura – Ampare
-versión: 1.1
-fecha: 2025-01-14
+versión: 1.2
+fecha: 2025-01-15
 autor: [Nombre del responsable]
 ---
 
 # 1. DATOS GENERALES
-Este documento contiene la **coordinación global** del proyecto para la apertura de “Ampare”. Incluye:
+Este documento contiene la **coordinación global** del proyecto para la apertura de "Ampare". Incluye:
 - Cronograma y organización de equipo (Néstor, Gustavo, Ilse, Lupita, Mario, Carmen, Antonio…).  
 - Checklists de operación y observaciones de Medio Ambiente.  
 - Reuniones de arranque y seguimiento.
@@ -17,6 +17,7 @@ Este documento contiene la **coordinación global** del proyecto para la apertur
 
 | **Versión** | **Fecha**     | **Descripción**                                                 | **Autor**                |
 |-------------|---------------|-----------------------------------------------------------------|--------------------------|
+| 1.2         | 2025-01-15    | Alineación de fechas con Hoja de Ruta (v1.0)                   | [Nombre del responsable] |
 | 1.1         | 2025-01-14    | Actualización de fechas para alinear con Hoja de Ruta           | [Nombre del responsable] |
 | 1.0         | 2024-12-31    | Creación inicial del documento de coordinación y checklist       | [Nombre del responsable] |
 
@@ -46,7 +47,7 @@ Este documento contiene la **coordinación global** del proyecto para la apertur
    - Néstor y Lupita resaltan la necesidad de un **presupuesto total** y suben la información a un tablero (Notion).  
 
 3. **Reunión (24/10/2024)**:  
-   - Presentación del proyecto al “comité de evaluación”. Se revisan problemáticas, objetivos, alcance y restricciones.  
+   - Presentación del proyecto al "comité de evaluación". Se revisan problemáticas, objetivos, alcance y restricciones.  
    - Mario indica la **visita de Medio Ambiente** y la importancia de un **sonómetro** para medir decibeles.
 
 *(Se pueden añadir más reuniones conforme se vayan realizando.)*
@@ -56,7 +57,7 @@ A finales de octubre y principios de noviembre 2024, el **Departamento de Medio 
 
 1. **Aumentar el tiro de la chimenea** (evitar molestias por humo/olores).  
 2. **Fotografías de recipientes de separación de residuos** (orgánico/inorgánico) y basura peatonal.  
-3. **Señalética “comercio libre de plástico”** y Letrero NOM 081 (no exceso de ruido).  
+3. **Señalética "comercio libre de plástico"** y Letrero NOM 081 (no exceso de ruido).  
 4. **Control de decibeles** (verificar con sonómetro).  
 5. **Prórroga solicitada** hasta el 14 de noviembre 2024 para solventar puntos pendientes.
 
@@ -158,16 +159,20 @@ Mario compartió (31/12/2024) un **checklist inicial** para verificar el cumplim
    - Selección final de personal
    - Contrataciones iniciales
    - Inicio de capacitación básica
+   - Pruebas de instalaciones y equipos
+   - Ajustes finales de mobiliario y decoración
 
 3. **Abril 2025**
    - Capacitación específica por área
    - Eventos de prueba (Apertura Suave)
-   - Ajustes de personal según necesidad
+   - Ajustes de procesos operativos
+   - Documentación de retroalimentación
 
 4. **Mayo 2025**
-   - Apertura Oficial al público
+   - Apertura Oficial al público (10 de mayo)
    - Inicio de operaciones regulares
    - Monitoreo y optimización continua
+   - Documentación de memorias técnicas
 
 ### 6.3 Programa de Capacitación
 - **Semana 1**: Inducción general
@@ -224,11 +229,13 @@ Mario compartió (31/12/2024) un **checklist inicial** para verificar el cumplim
 ## 8. ESTRATEGIA DE APERTURA
 
 ### 8.1 Pre-Apertura (Soft Opening)
+- **Fecha**: Abril 2025
 - Eventos por invitación
 - Pruebas de menú
 - Ajustes operativos
 
 ### 8.2 Apertura Oficial
+- **Fecha**: 10 de mayo 2025
 - Evento inaugural
 - Campaña de comunicación
 - Monitoreo de operación

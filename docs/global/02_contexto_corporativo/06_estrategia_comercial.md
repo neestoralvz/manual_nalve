@@ -1,12 +1,10 @@
-```yaml
 ---
 título: Estrategia Comercial de Grupo Nalve
 fecha_creación: 2025-01-20
-última_actualización: 2025-01-20
-versión: 0.1.0
+última_actualización: 2025-01-23
+versión: 0.2.0
 nivel_acceso: PUBLICO
 ---
-```
 
 # Estrategia Comercial de Grupo Nalve
 
@@ -130,9 +128,22 @@ La **Estrategia Comercial** de Grupo Nalve combina la expansión territorial (Di
 
 ---
 
+## Documentos Relacionados
+- [Manual Corporativo Nalve](../manual_corporativo_nalve.md)
+- [Contexto Nalve](00_contexto_nalve.md)
+- [Filiales - Resumen](01_filiales_resumen.md)
+- [Proyectos Futuros](04_proyectos_futuros.md)
+- [Cultura y Valores](05_cultura_valores.md)
+- [Esquema Financiero](07_esquema_financiero.md)
+- [KPIs e Indicadores](10_kpis_indicadores.md)
+
+---
+
 ## Historial de Cambios
-- **2025-01-20 — v0.1.0**  
-  - Creación inicial del documento, recopilando la visión comercial para DiQV, Ninu, NOAV, Ampare y MALEM, e integrando planes de apoyo corporativo.  
-  - Inclusión de líneas de acción, principales proyectos y mecanismos de seguimiento de resultados.
+- **2025-01-23 — v0.2.0**
+  - Agregada sección de Documentos Relacionados
+  - Actualizada estructura para mayor coherencia con otros documentos
+- **2025-01-20 — v0.1.0**
+  - Creación inicial del documento
 
 ---

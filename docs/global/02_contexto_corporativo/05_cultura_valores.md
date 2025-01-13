@@ -1,12 +1,10 @@
-```yaml
 ---
 título: Cultura y Valores de Grupo Nalve
 fecha_creación: 2025-01-20
-última_actualización: 2025-01-20
-versión: 0.1.0
+última_actualización: 2025-01-23
+versión: 0.2.0
 nivel_acceso: PUBLICO
 ---
-```
 
 # Cultura y Valores de Grupo Nalve
 
@@ -64,12 +62,14 @@ Este documento describe la **esencia cultural** de Grupo Nalve: el conjunto de v
 
 ---
 
-## 5. Conexión con los Demás Documentos
-- **Historia de Nalve** (`03_historia_nalve.md`): Aporta el trasfondo de las motivaciones del fundador y la evolución cultural.  
-- **Filiales - Resumen de Operaciones** (`01_filiales_resumen.md`): Muestra la diversidad de actividades y la necesidad de sinergia en valores.  
-- **Departamentos Corporativos** (`02_departamentos_corporativos.md`): Refuerza la idea de servicios compartidos, unificando criterios de integridad y colaboración.
-
----
+## 5. Documentos Relacionados
+- [Manual Corporativo Nalve](../manual_corporativo_nalve.md)
+- [Historia Nalve](03_historia_nalve.md)
+- [Filiales - Resumen](01_filiales_resumen.md)
+- [Departamentos Corporativos](02_departamentos_corporativos.md)
+- [Proyectos Futuros](04_proyectos_futuros.md)
+- [Estrategia Comercial](06_estrategia_comercial.md)
+- [KPIs e Indicadores](10_kpis_indicadores.md)
 
 ## 6. Conclusión
 La fuerza de Grupo Nalve radica en su **cultura emprendedora**, su **vocación innovadora** y su **capacidad de unir esfuerzos** a través de distintas industrias. Estos valores—la colaboración, la excelencia y la transparencia—son la base sobre la cual se desarrollan los proyectos futuros y se enfrentan los desafíos que cada filial encuentra en su camino hacia la consolidación y el crecimiento.
@@ -77,8 +77,12 @@ La fuerza de Grupo Nalve radica en su **cultura emprendedora**, su **vocación i
 ---
 
 ## Historial de Cambios
+- **2025-01-23 — v0.2.0**
+  - Reorganizada la sección de Documentos Relacionados
+  - Actualizada estructura para mayor coherencia con otros documentos
+  - Mejoradas referencias a otros documentos del contexto corporativo
 - **2025-01-20 — v0.1.0**  
   - Creación inicial del documento, integrando los valores y el estilo cultural distintivo de Grupo Nalve.  
-  - Recopilación de prácticas y principios rectores basados en la historia, la visión y las experiencias compartidas de las filiales.  
+  - Recopilación de prácticas y principios rectores basados en la historia, la visión y las experiencias compartidas de las filiales.
 
 ---

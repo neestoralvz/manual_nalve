@@ -1,45 +1,55 @@
 ---
-título: Pendientes para Carpintero y Tapicero
-versión: 1.0
-fecha: 2025-01-14
+título: Detalles Técnicos para Carpintero y Tapicero
+versión: 1.1
+fecha: 2025-01-15
 autor: [Tu Nombre]
 ---
 
 # 1. DATOS GENERALES
-Este documento detalla las **indicaciones y dudas** para el Carpintero y el Tapicero.
+Este documento complementa a `ListadoPendientes_Ampare.md`, proporcionando **especificaciones técnicas y detalles** para el Carpintero y el Tapicero. Para ver la lista completa de pendientes y fechas límite, consultar siempre el documento maestro.
 
 ## 2. HISTORIAL DE REVISIONES
 | Versión | Fecha       | Descripción                                      | Autor      |
 |---------|------------|--------------------------------------------------|------------|
+| 1.1     | 2025-01-15 | Reestructuración como documento complementario   | [Tu Nombre]|
 | 1.0     | 2025-01-14 | Creación de pendientes para carpintero/tapicero | [Tu Nombre]|
 
-## 3. PENDIENTES – CARPINTERO
+## 3. ESPECIFICACIONES TÉCNICAS
 
-1. **Mesas**:
-   - Fecha de recepción: 14 de enero (tentativo).
-   - Muestra a revisar: 13 de enero.
-   - Posible cambio en forma de algunas mesas para el fondo (pared con ángulo).
+### 3.1 Mesas y Mobiliario
+> Ver pendiente en: `ListadoPendientes_Ampare.md`, sección 3.2
 
-2. **Barra de Cafetería**:
-   - Verificar medidas (PDF vs. contrato).
-   - Confirmar diseño final (uso de mazarín, tarja, posición de cafetera).
+**Detalles de Fabricación**:
+- Dimensiones específicas por tipo de mesa
+- Materiales a utilizar
+- Acabados requeridos
+- Proceso de revisión de muestras
+- Consideraciones especiales para mesas en zona angular
 
-3. **Otros Muebles**:
-   - Anaqueles en cocina (si corresponde).
-   - Revisión de contrabarra en la planta alta (según plano del arquitecto).
+### 3.2 Barra de Cafetería
+> Ver pendiente en: `ListadoPendientes_Ampare.md`, sección 3.1
 
-## 4. PENDIENTES – TAPICERO (Jorge)
+**Especificaciones de Carpintería**:
+- Materiales seleccionados
+- Detalles de acabados
+- Consideraciones para instalaciones
+- Proceso de ensamblaje in situ
 
-1. **Respaldos en el Fondo**:
-   - Un lado es más ancho que el otro, ajustar medidas.
-   - Incluir iluminación en cajones (no se contempló en plano).
-2. **Luces en Booths**:
-   - Coordinar con electricista para instalación.
-   - Confirmar si la tapicería interfiere con la iluminación.
+### 3.3 Tapicería
+> Ver pendiente en: `ListadoPendientes_Ampare.md`, sección 3.4
 
-## 5. OBSERVACIONES ADICIONALES
-- Todo debe coordinarse con los planos que proporcione Emmanuel (Arquitecto).
-- Proponer fecha de visita conjunta para **revisar** en sitio.
+**Detalles de Materiales y Acabados**:
+- Tipos de tela por área
+- Patrones de costura
+- Especificaciones de rellenos
+- Detalles de iluminación integrada
 
-## 6. CONCLUSIONES
-Mantener este documento actualizado para que Carpintero y Tapicero tengan un panorama claro de sus respectivas tareas y plazos.
+## 4. DOCUMENTOS RELACIONADOS
+- `ListadoPendientes_Ampare.md`: Listado maestro de pendientes y fechas
+- `DisenoArquitectonico/Barra.md`: Diseños y planos de la barra
+- `DisenoArquitectonico/MesasCubiertas.md`: Especificaciones de mesas
+
+## 5. NOTAS
+- Este documento es complementario y NO reemplaza al listado maestro de pendientes
+- Cualquier nueva tarea debe registrarse primero en `ListadoPendientes_Ampare.md`
+- Usar este archivo solo para detalles técnicos y especificaciones de fabricación

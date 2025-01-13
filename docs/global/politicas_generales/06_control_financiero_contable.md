@@ -2,10 +2,11 @@
 título: Política de Control Financiero y Contable
 código: POL-CFC-06
 fecha_creación: 2025-01-12
-última_actualización: 2025-01-12
-versión: 0.1.0
-estado: borrador
-aprobado_por: Dirección General
+última_actualización: 2025-01-23
+versión: 0.2.0
+estado: en_revision
+aprobado_por: Dirección de Administración
+nivel_acceso: PUBLICO
 ---
 
 # Política de Control Financiero y Contable
@@ -66,14 +67,23 @@ Esta política aplica a:
 - Situaciones evaluadas por Dirección Financiera
 
 ## 8. Referencias
-- Normas Internacionales de Contabilidad
-- Legislación fiscal aplicable
-- Procedimientos internos de control
-- Manuales de auditoría
+- [Manual Corporativo Nalve](../manual_corporativo_nalve.md)
+- [Manual de Administración](../area_administracion/manual_administracion.md)
+- [Política de Auditoría](09_auditoria_gobernanza.md)
+- [Lineamientos de Aprobación de Políticas](lineamientos_aprobacion_politicas.md)
+
+## 9. Documentos Relacionados
+- [Contexto Corporativo](../02_contexto_corporativo/00_contexto_nalve.md)
+- [Esquema Financiero](../02_contexto_corporativo/07_esquema_financiero.md)
+- [KPIs e Indicadores](../02_contexto_corporativo/10_kpis_indicadores.md)
 
 ---
 
 ## Historial de Cambios
+- **2025-01-23 — v0.2.0**
+  - Actualización de estructura y formato
+  - Agregadas secciones de Referencias y Documentos Relacionados
+  - Estado actualizado a "en_revision"
 - **2025-01-12 — v0.1.0**
   - Creación inicial del documento
   - Definición de estructura base y contenido preliminar 

@@ -1,14 +1,15 @@
 ---
-título: Política de Seguridad Ocupacional y Gestión de Riesgos
+título: Política de Seguridad Ocupacional y Riesgos
 código: POL-SOR-03
 fecha_creación: 2025-01-12
-última_actualización: 2025-01-12
-versión: 0.1.0
-estado: borrador
-aprobado_por: Dirección General
+última_actualización: 2025-01-23
+versión: 0.2.0
+estado: en_revision
+aprobado_por: Dirección de RRHH
+nivel_acceso: PUBLICO
 ---
 
-# Política de Seguridad Ocupacional y Gestión de Riesgos
+# Política de Seguridad Ocupacional y Riesgos
 
 ## 1. Objetivo
 Establecer los lineamientos y protocolos necesarios para garantizar la seguridad y salud ocupacional de todos los colaboradores, así como la gestión efectiva de riesgos laborales en las operaciones del Grupo Nalve.
@@ -65,14 +66,23 @@ Esta política aplica a:
 - Actividades con protocolos específicos aprobados
 
 ## 8. Referencias
-- Normativa de Seguridad y Salud Ocupacional
-- Protocolos internos de emergencia
-- Manuales de equipos de protección
-- Estándares ISO 45001
+- [Manual Corporativo Nalve](../manual_corporativo_nalve.md)
+- [Manual de RRHH](../area_administracion/manual_rrhh.md)
+- [Política de Recursos Humanos](04_recursos_humanos_desarrollo.md)
+- [Lineamientos de Aprobación de Políticas](lineamientos_aprobacion_politicas.md)
+
+## 9. Documentos Relacionados
+- [Contexto Corporativo](../02_contexto_corporativo/00_contexto_nalve.md)
+- [Cultura y Valores](../02_contexto_corporativo/05_cultura_valores.md)
+- [KPIs e Indicadores](../02_contexto_corporativo/10_kpis_indicadores.md)
 
 ---
 
 ## Historial de Cambios
+- **2025-01-23 — v0.2.0**
+  - Actualización de estructura y formato
+  - Agregadas secciones de Referencias y Documentos Relacionados
+  - Estado actualizado a "en_revision"
 - **2025-01-12 — v0.1.0**
   - Creación inicial del documento
   - Definición de estructura base y contenido preliminar 

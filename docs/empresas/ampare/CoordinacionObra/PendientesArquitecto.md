@@ -1,58 +1,54 @@
 ---
-título: Pendientes para el Arquitecto – Proyecto Ampare
-versión: 1.0
-fecha: 2025-01-14
+título: Detalles Técnicos para el Arquitecto – Proyecto Ampare
+versión: 1.1
+fecha: 2025-01-15
 autor: [Tu Nombre]
 ---
 
 # 1. DATOS GENERALES
-Este documento consolida las **peticiones y pendientes** dirigidos al Arquitecto Emmanuel, a fin de agilizar la comunicación y asignación de tareas.
+Este documento complementa a `ListadoPendientes_Ampare.md`, proporcionando **detalles técnicos adicionales** para el Arquitecto Emmanuel. Para ver la lista completa de pendientes y fechas límite, consultar siempre el documento maestro.
 
 ## 2. HISTORIAL DE REVISIONES
 | Versión | Fecha       | Descripción                                | Autor            |
 |---------|------------|--------------------------------------------|------------------|
+| 1.1     | 2025-01-15 | Reestructuración como documento complementario | [Tu Nombre]      |
 | 1.0     | 2025-01-14 | Creación inicial de Pendientes para Arquitecto | [Tu Nombre]      |
 
-## 3. PENDIENTES ESPECÍFICOS
+## 3. DETALLES TÉCNICOS POR ÁREA
 
-1. **Revisión de Medidas Barra de Cafetería**
-   - Ajuste de PDF vs. contrato
-   - Confirmar dimensiones finales con el carpintero
+### 3.1 Barra de Cafetería
+> Ver pendiente en: `ListadoPendientes_Ampare.md`, sección 3.1
 
-2. **Planos de Muebles e Interiores**
-   - Generar y/o actualizar planos para:
-     - Barra y contrabarra (planta alta)
-     - Escenarios (abajo y arriba)
-     - Arcos de espejo (arriba)
-     - Iluminación (diagramas de lámparas, caseta escalera, baños arriba)
-     - Mobiliario variado (mesas con forma distinta en fondo)
+**Consideraciones Técnicas**:
+- Medidas originales en contrato: [especificar]
+- Medidas en PDF actual: [especificar]
+- Puntos de discrepancia: [listar]
+- Requerimientos específicos para instalaciones (agua, electricidad)
 
-3. **Diseño de la Fuente**
-   - Pintura en el fondo (actual no ideal para humedad)
-   - Arenilla u otro acabado en zona de la fuente
+### 3.2 Escenario
+> Ver pendiente en: `ListadoPendientes_Ampare.md`, sección 3.1
 
-4. **Terraza (Planta Alta)**
-   - Macetas colgantes + lámparas
-   - Posible malla en domo o entre tejas y domo
-   - Vegetación e iluminación
-   - Uso de espacio junto a los baños
+**Especificaciones Técnicas**:
+- Capacidad de carga requerida
+- Requisitos acústicos
+- Consideraciones para instalación de pantallas
+- Detalles de materiales sugeridos
 
-5. **Caja Planta Baja**
-   - Definir ubicación exacta
-   - Croquis de la planta baja con ubicación de escenario y fuente
+### 3.3 Planos y Diagramas
+> Ver pendientes en: `ListadoPendientes_Ampare.md`, sección 3.3
 
-6. **Pantallas y Nichos**
-   - Plan de pantallas en zona de visibilidad limitada
-   - Nichos del salón del fondo (qué colocar)
+**Formatos y Especificaciones**:
+- Software a utilizar para planos
+- Escala requerida
+- Detalles necesarios para cada tipo de plano
+- Formato de entrega
 
-7. **Contrato de Servicios**
-   - Formalizar contrato con Emmanuel (acuerdos, pagos)
+## 4. DOCUMENTOS RELACIONADOS
+- `ListadoPendientes_Ampare.md`: Listado maestro de pendientes y fechas
+- `DisenoArquitectonico/`: Carpeta con planos y diseños
+- `CoordinacionesReuniones.md`: Minutas y acuerdos
 
-## 4. PRIORIDAD Y FECHAS TENTATIVAS
-1. Barra de Cafetería: **Urgente** (medidas no coinciden)
-2. Planos Iluminación y Muebles: **Próxima semana** (coordinación con carpintero)
-3. Diseño de la Fuente: **Antes de instalar agua** (evitar repintes)
-4. Contrato Servicios: **Pendiente** de concretar detalles legales
-
-## 5. CONCLUSIONES
-Al centralizar las peticiones, se facilita la labor del Arquitecto y el seguimiento de cada punto. Se recomienda mantener este documento actualizado tras cada visita o reunión.
+## 5. NOTAS
+- Este documento es complementario y NO reemplaza al listado maestro de pendientes
+- Cualquier nueva tarea debe registrarse primero en `ListadoPendientes_Ampare.md`
+- Usar este archivo solo para detalles técnicos y especificaciones

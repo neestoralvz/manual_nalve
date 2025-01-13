@@ -1,5 +1,3 @@
-Podemos pulir un poco más la redacción y la coherencia del documento, así como ajustarnos a la fecha actual y mantener un estilo profesional y consistente con el resto de la documentación. A continuación, presento una versión refinada del archivo **`00_indice_lineamientos.md`**. Puedes utilizarla como tu versión final o hacer ajustes adicionales según tus necesidades:
-
 ```yaml
 ---
 título: Índice de Lineamientos Generales Nalve

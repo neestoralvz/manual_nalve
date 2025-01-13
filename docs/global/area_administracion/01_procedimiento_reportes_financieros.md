@@ -1,18 +1,21 @@
 ---
 título: Procedimiento de Reportes Financieros
 fecha_creación: 2025-01-27
-última_actualización: 2025-01-27
-versión: 0.1.0
+última_actualización: 2025-01-29
+versión: 0.1.3
 nivel_acceso: PUBLICO
 ---
 
 # Procedimiento de Reportes Financieros
 
 ## 1. Introducción
-Este documento detalla el proceso de generación, revisión y presentación de reportes financieros para todas las filiales del Grupo Nalve, en concordancia con el [Manual de Administración](../manual_administracion.md) y las políticas corporativas.
+Este documento detalla el proceso de generación, revisión y presentación de reportes financieros para todas las filiales del Grupo Nalve, en concordancia con:
+- [Manual de Administración](manual_administracion.md)
+- Manual Corporativo Nalve
+- [Esquema Financiero](07_esquema_financiero.md)
 
 ### 1.1 Objetivo
-Establecer un calendario y formato estandarizado para la generación y entrega de reportes financieros, asegurando la consistencia y calidad de la información contable y financiera del grupo.
+Establecer un calendario y formato estandarizado para la generación y entrega de reportes financieros, asegurando la consistencia y calidad de la información contable y financiera del grupo, en cumplimiento con las políticas corporativas de transparencia y control financiero.
 
 ### 1.2 Alcance
 - Reportes mensuales de cada filial
@@ -60,7 +63,9 @@ Establecer un calendario y formato estandarizado para la generación y entrega d
    - Largo Plazo
    CAPITAL
    ```
-   > **Nota**: Las plantillas detalladas están disponibles en: `docs/global/recursos_comunes/plantillas/administracion/balance_general.xlsx`
+   > **Nota**: Utilizar las plantillas oficiales:
+   > - Markdown: `docs/global/recursos_comunes/plantillas/administracion/balance_general.md`
+   > - Excel: `docs/global/recursos_comunes/plantillas/administracion/balance_general.xlsx`
 
 2. **Estado de Resultados**:
    ```
@@ -72,7 +77,9 @@ Establecer un calendario y formato estandarizado para la generación y entrega d
    +/- Resultado Integral de Financiamiento
    = Utilidad antes de Impuestos
    ```
-   > **Nota**: Las plantillas detalladas están disponibles en: `docs/global/recursos_comunes/plantillas/administracion/estado_resultados.xlsx`
+   > **Nota**: Utilizar las plantillas oficiales:
+   > - Markdown: `docs/global/recursos_comunes/plantillas/administracion/estado_resultados.md`
+   > - Excel: `docs/global/recursos_comunes/plantillas/administracion/estado_resultados.xlsx`
 
 ### 3.2 Indicadores Clave
 1. **Operativos**:
@@ -151,7 +158,9 @@ Establecer un calendario y formato estandarizado para la generación y entrega d
    - Errores en reportes previos
 
 2. **Documentación**:
-   - Formato de reporte de hallazgos (ver `docs/global/recursos_comunes/plantillas/administracion/reporte_hallazgos.xlsx`)
+   > **Nota**: Utilizar las plantillas oficiales para documentar hallazgos:
+   > - Markdown: `docs/global/recursos_comunes/plantillas/administracion/reporte_hallazgos.md`
+   > - Excel: `docs/global/recursos_comunes/plantillas/administracion/reporte_hallazgos.xlsx`
    - Evidencia de soporte
    - Plan de acción propuesto
 
@@ -161,6 +170,10 @@ Establecer un calendario y formato estandarizado para la generación y entrega d
    - Cierre formal de hallazgos
 
 ## Historial de Cambios
+- **2025-01-29 — v0.1.3**
+  - Adición de referencias explícitas al Manual Corporativo y Esquema Financiero
+  - Actualización de notas sobre plantillas para incluir versiones Markdown
+  - Mejora en la documentación de relaciones entre documentos
 - **2025-01-27 — v0.1.2**
   - Actualización de rutas de plantillas a `recursos_comunes/plantillas/administracion/`
 - **2025-01-27 — v0.1.1**
