@@ -38,21 +38,39 @@ Este documento consolida las tareas pendientes en el proyecto “Ampare”, clas
 
 ## 3.2 Parte de Arriba
 1. **Contrabarra**  
-   - Pendiente: Definir diseño y materiales.  
+   - Pendiente: Definir diseño y materiales.
+   - Responsable: Emmanuel Sánchez
+   - Fecha Límite: 2025-02-28
+   - Ver detalles en: `DisenoArquitectonico/Barra.md`
 2. **Mesas y Sillas**  
    - Estado: En proceso
    - Nota: Mesas programadas para entrega el 14/01/2025
    - Pendiente: Igualar altura a las de la parte baja, verificar acabado
+   - Responsable: Gustavo Martínez Nalve
+   - Fecha Límite: 2025-02-15
 3. **Banca**  
-   - Pendiente: Confirmar tapizado o acabado final.  
+   - Pendiente: Confirmar tapizado o acabado final.
+   - Responsable: Emmanuel Sánchez
+   - Fecha Límite: 2025-02-28
 4. **Macetas y Plantas**  
-   - Pendiente: Seleccionar especies aptas para interiores.  
+   - Pendiente: Seleccionar especies aptas para interiores.
+   - Responsable: Emmanuel Sánchez
+   - Fecha Límite: 2025-02-28
+   - Ver detalles en: `DisenoArquitectonico/Vegetacion.md`
 5. **Plantas Colgantes**  
-   - Pendiente: Determinar puntos de anclaje y riego.  
+   - Pendiente: Determinar puntos de anclaje y riego.
+   - Responsable: Emmanuel Sánchez
+   - Fecha Límite: 2025-02-28
+   - Ver detalles en: `DisenoArquitectonico/Vegetacion.md`
 6. **Iluminación**  
-   - Pendiente: Colocación de lámparas adicionales según diseño final.  
+   - Pendiente: Colocación de lámparas adicionales según diseño final.
+   - Responsable: Emmanuel Sánchez
+   - Fecha Límite: 2025-02-15
+   - Ver detalles en: `DisenoArquitectonico/Iluminacion.md`
 7. **Marcos para Espejos**  
    - Pendiente: Seleccionar diseños y ubicar sobre la banca o cerca de la puerta.
+   - Responsable: Emmanuel Sánchez
+   - Fecha Límite: 2025-02-28
 
 # 4. SEGUIMIENTO
 Cada pendiente deberá actualizarse con:

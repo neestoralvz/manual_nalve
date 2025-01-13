@@ -107,22 +107,24 @@ Mario compartió (31/12/2024) un **checklist inicial** para verificar el cumplim
 
 ## 5. PENDIENTES DE APERTURA
 
-1. **Equipamiento**:  
-   - Cocción (hornos, parrillas), refrigeración, barras frías/calientes.  
-   - Cafetera y utensilios de barista.  
-   - Vajilla y menaje (platos, cubiertos, vasos).
+> **Nota**: Los pendientes detallados se mantienen en el documento maestro `ListadoPendientes_Ampare.md`. 
+> Aquí se resumen las categorías principales:
 
-2. **Mobiliario y Decoración Restante**:  
-   - Mesas y sillas definitivas en cocina o zona de servicio.  
-   - Macetas, plantas y adornos pendientes.
+1. **Equipamiento y Mobiliario**
+   - Ver detalles en `ListadoPendientes_Ampare.md`, secciones 3.1 y 3.2
+   - Responsable global: Gustavo Martínez Nalve
 
-3. **Permisos y Trámites**:  
-   - Tramitar licencias o cartas de no inconveniencia (si aplica).  
-   - Cumplir con la reglamentación medioambiental final (fotografías, letreros, etc.).
+2. **Permisos y Documentación**
+   - Ver sección 7 de este documento para detalles de requisitos legales
+   - Responsable: Mario (aspectos legales/ambientales)
 
-4. **Checklists Finales**:  
-   - Validar con Mario y Carmen si hace falta algún rubro adicional (seguridad, limpieza, señalización).  
-   - Documentar todo para la **fecha de apertura** (aún por definir).
+3. **Personal y Capacitación**
+   - Ver sección 6 de este documento para estructura y cronograma
+   - Responsable: Carmen (RRHH)
+
+4. **Checklists y Validaciones**
+   - Responsables: Mario y Carmen
+   - Fecha límite: 2025-03-15 (dos semanas antes de Apertura Suave)
 
 ---
 
