@@ -33,7 +33,7 @@ ampare/
 │       └── MemoriasyManuales/
 └── recursos/               # Recursos adicionales
     ├── enlaces/           # Enlaces y referencias
-    ├── fotografias/       # Imágenes del proyecto
+    ├── fotos/            # Imágenes del proyecto
     ├── ia/               # Documentación IA
     ├── identidad/        # Logos y branding
     ├── planos/           # Planos arquitectónicos
@@ -77,7 +77,7 @@ ampare/
 
 - [Hoja de Ruta](docs/ampare/1.HojaDeRuta_Ampare.md): Cronograma detallado
 - [Plan de Apertura](docs/ampare/Apertura/PlanApertura.md): Detalles de la apertura
-- [Control de Proveedores](docs/ampare/CoordinacionObra/ControlProveedores.md): Estado de trabajos
+- [Control de Proveedores](docs/ampare/obra/ControlProveedores.md): Estado de trabajos
 
 ## Contacto
 

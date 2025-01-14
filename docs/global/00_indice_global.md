@@ -1,8 +1,8 @@
 ---
 título: Índice de Recursos Globales
 fecha_creación: 2025-01-11
-última_actualización: 2025-01-13
-versión: 1.0.1
+última_actualización: 2025-01-30
+versión: 1.0.2
 ---
 
 # Índice de Recursos Globales
@@ -16,6 +16,8 @@ versión: 1.0.1
 ## Áreas Departamentales
 - [Área de Administración](area_administracion/00_indice_administracion.md)
 - [Área de RRHH](area_rrhh/00_indice_rrhh.md)
+- [Área Jurídico](area_juridico/00_indice_juridico.md)
+- [Área Analítica/TI](area_analitica/00_indice_analitica.md)
 
 ## Políticas Generales
 Esta sección contiene políticas y directrices que aplican a todas las empresas:

@@ -23,7 +23,7 @@ A continuación, presento una **nueva versión** de la propuesta integral, **tom
 Para que el repositorio sea **la fuente principal** de la documentación de Ampare, necesitamos:
 
 1. **Una estructura sólida**:  
-   - Mantener carpetas temáticas (CoordinaciónObra, FinanzasAdministracion, etc.), pero teniendo presente que Ampare abarca más que solo la adecuación inicial.  
+   - Mantener carpetas temáticas (obra, finanzas, etc.), pero teniendo presente que Ampare abarca más que solo la adecuación inicial.  
    - Dejar espacio para **operaciones diarias**, **manuales de RRHH**, **recetas**, **marketing continuo**, etc.
 
 2. **Documentos maestros** en cada área:  

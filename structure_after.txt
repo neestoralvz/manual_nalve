@@ -1,0 +1,101 @@
+.
+├── docs
+│   ├── bitacora
+│   ├── empresas
+│   │   ├── ampare
+│   │   │   ├── Apertura
+│   │   │   ├── Operaciones
+│   │   │   │   ├── Checklists
+│   │   │   │   └── Inventarios
+│   │   │   │       ├── Bar
+│   │   │   │       ├── Cocina
+│   │   │   │       └── Limpieza
+│   │   │   ├── archivado
+│   │   │   ├── contexto
+│   │   │   ├── finanzas
+│   │   │   │   ├── Contratos
+│   │   │   │   ├── Cotizaciones
+│   │   │   │   ├── EstadosFinancieros
+│   │   │   │   ├── Facturas
+│   │   │   │   └── Presupuestos
+│   │   │   ├── obra
+│   │   │   ├── plan
+│   │   │   └── recursos
+│   │   │       ├── enlaces
+│   │   │       ├── fotos
+│   │   │       ├── ia
+│   │   │       ├── identidad
+│   │   │       ├── planos
+│   │   │       └── vegetacion
+│   │   └── diqv
+│   │       ├── informacion
+│   │       ├── organizacion
+│   │       ├── politicas
+│   │       │   ├── 01_generales
+│   │       │   │   ├── 01_cumplimiento_normativo
+│   │       │   │   └── 02_etica_empresarial
+│   │       │   ├── 02_operativas
+│   │       │   │   ├── 01_seguridad_transporte
+│   │       │   │   └── 02_control_operaciones
+│   │       │   ├── 03_personal
+│   │       │   │   ├── 01_seguridad_salud
+│   │       │   │   └── 02_capacitacion
+│   │       │   ├── 04_calidad
+│   │       │   │   ├── 01_control_calidad
+│   │       │   │   └── 02_gestion_documental
+│   │       │   ├── 05_comunicacion
+│   │       │   │   ├── 01_comunicacion_interna
+│   │       │   │   └── 02_comunicacion_externa
+│   │       │   └── 06_sostenibilidad
+│   │       │       ├── 01_gestion_ambiental
+│   │       │       ├── 02_continuidad_negocio
+│   │       │       ├── 03_proteccion_datos
+│   │       │       └── 04_innovacion
+│   │       ├── procesos
+│   │       ├── productos
+│   │       │   ├── aplicaciones
+│   │       │   └── especificaciones
+│   │       ├── recursos
+│   │       │   ├── formatos
+│   │       │   ├── manual_identidad
+│   │       │   ├── marca
+│   │       │   │   ├── 02_logos
+│   │       │   │   ├── 03_colores
+│   │       │   │   └── 04_tipografia
+│   │       │   ├── material_apoyo
+│   │       │   │   ├── diagramas
+│   │       │   │   ├── fichas
+│   │       │   │   ├── guias
+│   │       │   │   └── infografias
+│   │       │   ├── plantillas
+│   │       │   │   └── 01_documentacion
+│   │       │   ├── presentaciones
+│   │       │   │   ├── capacitacion
+│   │       │   │   ├── comerciales
+│   │       │   │   ├── corporativas
+│   │       │   │   └── tecnicas
+│   │       │   ├── procesos
+│   │       │   └── referencias
+│   │       │       ├── 01_normatividad
+│   │       │       ├── 02_estandares
+│   │       │       ├── 03_bibliografia
+│   │       │       └── pictogramas
+│   │       └── referencias
+│   └── global
+│       ├── 01_lineamientos_generales
+│       ├── 02_contexto_corporativo
+│       ├── 03_referencias_legales_globales
+│       ├── area_administracion
+│       ├── area_analitica
+│       ├── area_juridico
+│       ├── area_rrhh
+│       ├── politicas_generales
+│       └── recursos_comunes
+│           └── plantillas
+│               ├── administracion
+│               ├── analitica
+│               ├── juridico
+│               └── rrhh
+└── plan
+
+99 directories
